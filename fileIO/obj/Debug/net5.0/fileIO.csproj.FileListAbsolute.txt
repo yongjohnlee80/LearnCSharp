@@ -1,0 +1,16 @@
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\bin\Debug\net5.0\fileIO.exe
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\bin\Debug\net5.0\fileIO.deps.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\bin\Debug\net5.0\fileIO.runtimeconfig.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\bin\Debug\net5.0\fileIO.runtimeconfig.dev.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\bin\Debug\net5.0\fileIO.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\bin\Debug\net5.0\ref\fileIO.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\bin\Debug\net5.0\fileIO.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\obj\Debug\net5.0\fileIO.csproj.AssemblyReference.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\obj\Debug\net5.0\fileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\obj\Debug\net5.0\fileIO.AssemblyInfoInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\obj\Debug\net5.0\fileIO.AssemblyInfo.cs
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\obj\Debug\net5.0\fileIO.csproj.CoreCompileInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\obj\Debug\net5.0\fileIO.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\obj\Debug\net5.0\ref\fileIO.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\obj\Debug\net5.0\fileIO.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\learnCSharp\fileIO\obj\Debug\net5.0\fileIO.genruntimeconfig.cache
