@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\learncsharp\\fileIO\\fileIO.csproj": {}
+    "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\datatype\\datatype.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\learncsharp\\fileIO\\fileIO.csproj": {
+    "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\datatype\\datatype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\learncsharp\\fileIO\\fileIO.csproj",
-        "projectName": "fileIO",
-        "projectPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\learncsharp\\fileIO\\fileIO.csproj",
+        "projectUniqueName": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\datatype\\datatype.csproj",
+        "projectName": "datatype",
+        "projectPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\datatype\\datatype.csproj",
         "packagesPath": "C:\\Users\\yongj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\learncsharp\\fileIO\\obj\\",
+        "outputPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\datatype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
