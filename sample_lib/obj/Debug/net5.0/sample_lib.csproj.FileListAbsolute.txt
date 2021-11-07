@@ -1,0 +1,12 @@
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\bin\Debug\net5.0\sample_lib.deps.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\bin\Debug\net5.0\sample_lib.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\bin\Debug\net5.0\ref\sample_lib.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\bin\Debug\net5.0\sample_lib.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\obj\Debug\net5.0\sample_lib.csproj.AssemblyReference.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\obj\Debug\net5.0\sample_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\obj\Debug\net5.0\sample_lib.AssemblyInfoInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\obj\Debug\net5.0\sample_lib.AssemblyInfo.cs
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\obj\Debug\net5.0\sample_lib.csproj.CoreCompileInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\obj\Debug\net5.0\sample_lib.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\obj\Debug\net5.0\ref\sample_lib.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\sample_lib\obj\Debug\net5.0\sample_lib.pdb
