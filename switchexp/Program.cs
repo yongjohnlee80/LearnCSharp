@@ -4,6 +4,12 @@ namespace switchexp
 {
     class Program
     {
+        /// <summary>
+        /// computes the taxable portion based on regional tax rate.
+        /// </summary>
+        /// <param name="amount"></param>
+        /// <param name="regionalCode">Two letter rigional codes.</param>
+        /// <returns></returns>
         static decimal CalculateTax(decimal amount, string regionalCode) {
             var rate = regionalCode switch {
                 "CH" => 0.08M,
@@ -18,6 +24,13 @@ namespace switchexp
         static void Main(string[] args)
         {
             Console.WriteLine(CalculateTax(135.0M, "CA"));
+
+            double a = 3.5, b = 4.2;
+            Console.WriteLine($"{a} + {b} = {add(a,b):N2}");
+        }
+
+        static double add(double a, double b) {
+            return a+b;
         }
     }
 }
