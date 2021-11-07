@@ -9,24 +9,27 @@
   },
   "packageFolders": {
     "C:\\Users\\yongj\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\datatype\\datatype.csproj",
+      "projectUniqueName": "C:\\Users\\yongj\\onedrive\\documents\\common\\repos\\c#\\LearnCSharp\\datatype\\datatype.csproj",
       "projectName": "datatype",
-      "projectPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\datatype\\datatype.csproj",
+      "projectPath": "C:\\Users\\yongj\\onedrive\\documents\\common\\repos\\c#\\LearnCSharp\\datatype\\datatype.csproj",
       "packagesPath": "C:\\Users\\yongj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\datatype\\obj\\",
+      "outputPath": "C:\\Users\\yongj\\onedrive\\documents\\common\\repos\\c#\\LearnCSharp\\datatype\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\yongj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

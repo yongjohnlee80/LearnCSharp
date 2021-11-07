@@ -1,0 +1,16 @@
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\bin\Debug\net5.0\switchexp.exe
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\bin\Debug\net5.0\switchexp.deps.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\bin\Debug\net5.0\switchexp.runtimeconfig.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\bin\Debug\net5.0\switchexp.runtimeconfig.dev.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\bin\Debug\net5.0\switchexp.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\bin\Debug\net5.0\ref\switchexp.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\bin\Debug\net5.0\switchexp.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\obj\Debug\net5.0\switchexp.csproj.AssemblyReference.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\obj\Debug\net5.0\switchexp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\obj\Debug\net5.0\switchexp.AssemblyInfoInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\obj\Debug\net5.0\switchexp.AssemblyInfo.cs
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\obj\Debug\net5.0\switchexp.csproj.CoreCompileInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\obj\Debug\net5.0\switchexp.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\obj\Debug\net5.0\ref\switchexp.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\obj\Debug\net5.0\switchexp.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\switchexp\obj\Debug\net5.0\switchexp.genruntimeconfig.cache
