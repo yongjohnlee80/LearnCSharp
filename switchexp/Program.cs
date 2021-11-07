@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics;
+using System.IO;
 
 namespace switchexp
 {
@@ -23,14 +25,29 @@ namespace switchexp
         }
         static void Main(string[] args)
         {
+       
             Console.WriteLine(CalculateTax(135.0M, "CA"));
 
             double a = 3.5, b = 4.2;
             Console.WriteLine($"{a} + {b} = {add(a,b):N2}");
+
+            AddListener("log.txt");
+            LogTrace("Logging Message");
+            
         }
 
         static double add(double a, double b) {
             return a+b;
+        }
+
+        static void AddListener(string fileName) {
+            Trace.Listeners.Add(new TextWriterTraceListener(File.CreateText(fileName)));
+            Trace.AutoFlush = true;
+        }
+
+        static void LogTrace(string msg) {
+            Debug.WriteLine(msg);
+            Trace.WriteLine(msg);
         }
     }
 }
