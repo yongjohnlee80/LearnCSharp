@@ -1,0 +1,16 @@
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\obj\Debug\net5.0\tuple_func.csproj.AssemblyReference.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\obj\Debug\net5.0\tuple_func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\obj\Debug\net5.0\tuple_func.AssemblyInfoInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\obj\Debug\net5.0\tuple_func.AssemblyInfo.cs
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\obj\Debug\net5.0\tuple_func.csproj.CoreCompileInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\bin\Debug\net5.0\tuple_func.exe
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\bin\Debug\net5.0\tuple_func.deps.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\bin\Debug\net5.0\tuple_func.runtimeconfig.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\bin\Debug\net5.0\tuple_func.runtimeconfig.dev.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\bin\Debug\net5.0\tuple_func.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\bin\Debug\net5.0\ref\tuple_func.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\bin\Debug\net5.0\tuple_func.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\obj\Debug\net5.0\tuple_func.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\obj\Debug\net5.0\ref\tuple_func.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\obj\Debug\net5.0\tuple_func.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\tuple_func\obj\Debug\net5.0\tuple_func.genruntimeconfig.cache
