@@ -1,0 +1,7 @@
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexSample\bin\Debug\net5.0\publish\ComplexSample.exe
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexSample\bin\Debug\net5.0\publish\ComplexSample.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexSample\bin\Debug\net5.0\publish\ComplexSample.deps.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexSample\bin\Debug\net5.0\publish\ComplexSample.runtimeconfig.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexSample\bin\Debug\net5.0\publish\ComplexSample.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexSample\bin\Debug\net5.0\publish\ComplexLib.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexSample\bin\Debug\net5.0\publish\ComplexLib.pdb

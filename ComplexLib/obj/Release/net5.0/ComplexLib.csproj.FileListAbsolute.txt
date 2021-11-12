@@ -1,0 +1,12 @@
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\bin\Release\net5.0\ComplexLib.deps.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\bin\Release\net5.0\ComplexLib.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\bin\Release\net5.0\ref\ComplexLib.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\bin\Release\net5.0\ComplexLib.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\obj\Release\net5.0\ComplexLib.csproj.AssemblyReference.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\obj\Release\net5.0\ComplexLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\obj\Release\net5.0\ComplexLib.AssemblyInfoInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\obj\Release\net5.0\ComplexLib.AssemblyInfo.cs
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\obj\Release\net5.0\ComplexLib.csproj.CoreCompileInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\obj\Release\net5.0\ComplexLib.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\obj\Release\net5.0\ref\ComplexLib.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ComplexLib\obj\Release\net5.0\ComplexLib.pdb
