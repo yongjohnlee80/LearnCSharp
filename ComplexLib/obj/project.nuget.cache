@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eeAWh7h95uPrxGS3u+yn32+NrQPLhgpI0Yff4gYO6iYIIjzffQ3Dd5gY8gsjYyu/9uxcUTaxPCdEDHb/dLacng==",
+  "dgSpecHash": "rjegRZCZdx0s+G709qvYZ7MaQDNYPEi9cNuUINZlgncX0kynt0tJXhLwmhri9oTai83n7rgTOTjnS5z8tnu2rQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\ComplexLib\\ComplexLib.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yongsunglee/OneDrive/Documents/Common/repos/c#/LearnCSharp/ComplexLib/ComplexLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/yongsunglee/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/yongsunglee/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

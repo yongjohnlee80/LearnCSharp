@@ -75,6 +75,13 @@ namespace ComplexLib
         protected string _employeeID;
         protected DateTime _hire_date;
 
+        // constructor.
+        public TEmployee(string name, DateTime DOB, string emID, DateTime hireDate) : base(name, DOB)
+        {
+            EmployeeID = emID;
+            HireDate = hireDate;
+        }
+
         // getters and setters.
         public string EmployeeID {
             get { return _employeeID; }
