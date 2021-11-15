@@ -34,9 +34,9 @@ namespace ComplexSample
 
             //TPerson john = SearchName(people, "John");
             TPerson john = people.SearchName("John");
-            john.ProcreateWith(SearchName(people, "Sarah"));
-            john.ProcreateWith(SearchName(people, "Nina"));
-            john.ProcreateWith(SearchName(people,"Cindy"));
+            john.ProcreateWith(people.SearchName("Sarah"));
+            john.ProcreateWith(people.SearchName("Nina"));
+            john.ProcreateWith(people.SearchName("Cindy"));
 
             Console.WriteLine(john.Name.IsValidEmail());
 
@@ -48,6 +48,27 @@ namespace ComplexSample
                 }
                 Console.WriteLine();
             }
+
+            string city = "London";
+            Console.WriteLine($"{city} is {city.Length} characters long.");
+            Console.WriteLine($"First char is {city[0]} and third is {city[2]}");
+
+            string cities = "London, Vancouver, Seattle, Los Angeles, New York";
+            cities = cities.Replace(" ", "");
+            string[] citiesArray = cities.Split(',');
+            foreach(string item in citiesArray) {
+                Console.WriteLine(item);
+            }
+
+            Console.Write("Enter your age: ");
+            string input = Console.ReadLine();
+            var ageChecker = new Regex(@"^[0-9]$");
+            if (ageChecker.IsMatch(input)) {
+                Console.WriteLine("Thank you.");
+            } else {
+                Console.WriteLine($"This is not a valid age: {input}");
+            }
+
             Console.ReadLine();
         }
     }

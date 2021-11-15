@@ -1,28 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yongsunglee/OneDrive/Documents/Common/repos/c#/LearnCSharp/ComplexLib/ComplexLib.csproj": {}
+    "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\ComplexLib\\ComplexLib.csproj": {}
   },
   "projects": {
-    "/Users/yongsunglee/OneDrive/Documents/Common/repos/c#/LearnCSharp/ComplexLib/ComplexLib.csproj": {
+    "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\ComplexLib\\ComplexLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yongsunglee/OneDrive/Documents/Common/repos/c#/LearnCSharp/ComplexLib/ComplexLib.csproj",
+        "projectUniqueName": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\ComplexLib\\ComplexLib.csproj",
         "projectName": "ComplexLib",
-        "projectPath": "/Users/yongsunglee/OneDrive/Documents/Common/repos/c#/LearnCSharp/ComplexLib/ComplexLib.csproj",
-        "packagesPath": "/Users/yongsunglee/.nuget/packages/",
-        "outputPath": "/Users/yongsunglee/OneDrive/Documents/Common/repos/c#/LearnCSharp/ComplexLib/obj/",
+        "projectPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\ComplexLib\\ComplexLib.csproj",
+        "packagesPath": "C:\\Users\\yongj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\ComplexLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "/Users/yongsunglee/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yongj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,22 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
