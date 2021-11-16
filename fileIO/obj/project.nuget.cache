@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O946z2R8IKeN1b8AOSbZQktBxmCbTZI4suDxcnAA5hZIP1VKwhufWRfdKLYSBpYype2oBPSYwsIP0/FcHBJzow==",
+  "dgSpecHash": "YpfjZtBkJzDgnn4w/tSgi02dCPBy/4HDpooBAYkj117v3iW8EfjiofR3wIBvWnFwqsH3ccNk8QedcR+jYFiLuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\learncsharp\\fileIO\\fileIO.csproj",
+  "projectFilePath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\fileio\\fileIO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
