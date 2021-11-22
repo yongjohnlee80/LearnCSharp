@@ -10,18 +10,12 @@ namespace AdventOfCode2020
     {
         public class Day2Tests
         {
-            List<int> data;
+            string[]? data = null;
 
             public Day2Tests()
             {
-                var filename = Path.Combine(System.Environment.CurrentDirectory, "Day1Data.txt");
-                Console.WriteLine(filename);
-                using (var reader = new StreamReader(filename))
-                {
-                    this.data = new List<int>();
-                    data.AddRange(reader.ReadToEnd().Split("\n").Select(item => System.Convert.ToInt32(item)));
-
-                }
+                var filename = Path.Combine(System.Environment.CurrentDirectory, "Day2Data.txt");
+                this.data = File.ReadAllLines(filename);
             }
 
             [SetUp]
@@ -33,46 +27,33 @@ namespace AdventOfCode2020
             [Test]
             public void TestExample()
             {
-                var sample = new List<int>() { 1721, 979, 366, 299, 675, 1456 };
-                var test = new AdventDay1(sample);
-                Assert.That(test.FindSolution(), Is.EqualTo(514579));
+                string[] sample = new string[] { "1-3 a: abcde", "1-3 b: cdefg", "2-9 c: ccccccccc" };
+                var test = new AdventDay2(sample);
+                Assert.That(test.FindSolution(), Is.EqualTo(2));
             }
 
             [Test]
             public void TestExample2()
             {
-                var sample = new List<int>() { 1721, 979, 366, 299, 675, 1456 };
-                var test = new AdventDay1(sample);
-                Assert.That(test.FindSolution2(), Is.EqualTo(241861950));
+                string[] sample = new string[] { "1-3 a: abcde", "1-3 b: cdefg", "2-9 c: ccccccccc" };
+                var test = new AdventDay2(sample);
+                Assert.That(test.FindSolution2(), Is.EqualTo(1));
             }
 
             [Test]
             public void TestSolution()
             {
-                //var filename = Path.Combine(System.Environment.CurrentDirectory, "Day1Data.txt");
-                //Console.WriteLine(filename);
-                //using (var reader = new StreamReader(filename))
-                //{
-                //    List<int> data = new List<int>();
-                //    data.AddRange(reader.ReadToEnd().Split("\n").Select(item => System.Convert.ToInt32(item)));
-                    AdventDay1 test = new AdventDay1(data);
-                    Console.WriteLine(test.FindSolution());
-                //}
-                
+                var test = new AdventDay2(this.data);
+                Console.WriteLine(test.FindSolution());
             }
 
             [Test]
             public void TestSolution2()
             {
-                //var data = new List<int>();
-                //string[] text = File.ReadAllLines("Day1Data.txt");
-                //foreach(string line in text)
-                //{
-                //    data.Add(int.Parse(line));
-                //}
-                var test = new AdventDay1(this.data);
+                var test = new AdventDay2(this.data);
                 Console.WriteLine(test.FindSolution2());
             }
+
         }
     }
 }
