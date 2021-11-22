@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace ArraysAndStrings
 {
@@ -233,20 +234,20 @@ namespace ArraysAndStrings
         /// <returns>compressed string if it is shorter otherwise return original string.</returns>
         public static string CompressString(string str) {
             char[] temp = str.ToCharArray();
-            string result = "";
+            StringBuilder result = new StringBuilder();
             int count = 1;
             char prev = temp[0];
             for(int i=1;i<str.Length;i++) {
                 if(temp[i]==prev) {
                     count++;
                 } else {
-                    result += (prev+count.ToString());
+                    result.Append(prev+count.ToString());
                     count = 1;
                     prev = temp[i];
                 }
             }
-            result += (prev+count.ToString());
-            return (result.Length <= str.Length)? result: str;
+            result.Append(prev+count.ToString());
+            return (result.Length <= str.Length)? result.ToString(): str;
         }
 
         /// <summary>
@@ -269,6 +270,62 @@ namespace ArraysAndStrings
                     mat[N-1-i,first]=temp;
                 }
             }
+        }
+
+        /// <summary>
+        /// Interview Problem #8
+        /// ZeroMatrix method locates all zeros in the matrix contents, and if found,
+        /// sets all elements in its columns and rows to zero.
+        /// </summary>
+        /// <param name="mat"></param>
+        public static void ZeroMatrix(int[,] mat) {
+            int N = mat.GetLength(0);
+            int M = mat.GetLength(1);
+            var row = new List<int>();
+            var col = new List<int>();
+            for(int i=0; i<N; i++) {
+                for(int j=0; j<N; j++) {
+                    if(mat[i,j]==0) {
+                        if(!row.Contains(j)) row.Add(j);
+                        if(!col.Contains(i)) col.Add(i);
+                    }
+                }
+            }
+            foreach(int i in col) {
+                for(int j=0;j<M;j++) {
+                    mat[i,j]=0;
+                }
+            }
+            foreach(int j in row) {
+                for(int i=0;i<N;i++) {
+                    mat[i,j]=0;
+                }
+            }
+        }
+
+        // Printing NxM Matrix on console.
+        public static void PrintMatrix(int[,] mat) {
+            int N = mat.GetLength(0);
+            int M = mat.GetLength(1);
+            Console.WriteLine($"Printing a {N}x{M} Matrix: ");
+            for(int i=0;i<N;i++) {
+                for(int j=0;j<M;j++) {
+                    Console.Write("{0,2:N0} ",mat[i,j]);
+                }
+                Console.WriteLine();
+            }
+        }
+
+        /// <summary>
+        /// Interview Problem #9
+        /// StringRotation method checks whether string b is a rotation of string b.
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
+        public static bool StringRotation(string a, string b) {
+            string temp = b+b;
+            return temp.Contains(a);
         }
         public static void Main(string[] args) {
             // Problem #1
@@ -305,17 +362,23 @@ namespace ArraysAndStrings
             Console.WriteLine($"Problem 6: {CompressString("aabcccccaaa")}");
 
             // Problem #7
-            int[,] mat = { {1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}, {13, 14, 15, 16} };
+            int[,] mat = {  { 1, 2, 3, 4, 5}, 
+                            { 6, 7, 8, 9,10}, 
+                            {11, 0,13,14,15}, 
+                            {16,17,18, 0,20},
+                            {21,22,23,24,25} };
             Console.WriteLine("Problem 7:");
             RotateMaxtrix(mat);
-            // Print the Matrix Contents.
-            int N = mat.GetLength(0);
-            for(int i = 0; i < N; i++) {
-                for(int j = 0; j < N; j++) {
-                    Console.Write("{0,2:N0} ", mat[i,j]);
-                }
-                Console.WriteLine();
-            }
+            PrintMatrix(mat);
+
+            // Problem #8
+            Console.WriteLine("Problem 8:");
+            ZeroMatrix(mat);
+            PrintMatrix(mat);
+
+            // Problem #9
+            string a = "waterbottle", b = "erbottlewat";
+            Console.WriteLine($"Problem 9: \"{b}\" is a rotation of \"{a}\" - {StringRotation(a, b)}");
         }
     }
 }

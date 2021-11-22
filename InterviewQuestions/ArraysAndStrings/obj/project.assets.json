@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\InterviewQuestions\\ArraysAndStrings\\ArraysAndStrings.csproj",
+      "projectUniqueName": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\interviewquestions\\ArraysAndStrings\\ArraysAndStrings.csproj",
       "projectName": "ArraysAndStrings",
-      "projectPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\InterviewQuestions\\ArraysAndStrings\\ArraysAndStrings.csproj",
+      "projectPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\interviewquestions\\ArraysAndStrings\\ArraysAndStrings.csproj",
       "packagesPath": "C:\\Users\\yongj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\InterviewQuestions\\ArraysAndStrings\\obj\\",
+      "outputPath": "C:\\Users\\yongj\\OneDrive\\Documents\\Common\\repos\\c#\\LearnCSharp\\interviewquestions\\ArraysAndStrings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

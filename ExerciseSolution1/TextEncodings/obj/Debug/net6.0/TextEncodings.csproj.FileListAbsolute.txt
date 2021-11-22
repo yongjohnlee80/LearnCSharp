@@ -1,0 +1,15 @@
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\obj\Debug\net6.0\TextEncodings.csproj.AssemblyReference.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\obj\Debug\net6.0\TextEncodings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\obj\Debug\net6.0\TextEncodings.AssemblyInfoInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\obj\Debug\net6.0\TextEncodings.AssemblyInfo.cs
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\obj\Debug\net6.0\TextEncodings.csproj.CoreCompileInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\bin\Debug\net6.0\TextEncodings.exe
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\bin\Debug\net6.0\TextEncodings.deps.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\bin\Debug\net6.0\TextEncodings.runtimeconfig.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\bin\Debug\net6.0\TextEncodings.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\bin\Debug\net6.0\ref\TextEncodings.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\bin\Debug\net6.0\TextEncodings.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\obj\Debug\net6.0\TextEncodings.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\obj\Debug\net6.0\ref\TextEncodings.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\obj\Debug\net6.0\TextEncodings.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\ExerciseSolution1\TextEncodings\obj\Debug\net6.0\TextEncodings.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\interview\obj\Debug\net5.0\interview.csproj.AssemblyReference.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\interview\obj\Debug\net5.0\interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\interview\obj\Debug\net5.0\interview.AssemblyInfoInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\interview\obj\Debug\net5.0\interview.AssemblyInfo.cs
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\interview\obj\Debug\net5.0\interview.csproj.CoreCompileInputs.cache

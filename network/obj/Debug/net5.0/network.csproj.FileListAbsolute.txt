@@ -1,0 +1,16 @@
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\obj\Debug\net5.0\network.csproj.AssemblyReference.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\obj\Debug\net5.0\network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\obj\Debug\net5.0\network.AssemblyInfoInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\obj\Debug\net5.0\network.AssemblyInfo.cs
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\obj\Debug\net5.0\network.csproj.CoreCompileInputs.cache
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\bin\Debug\net5.0\network.exe
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\bin\Debug\net5.0\network.deps.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\bin\Debug\net5.0\network.runtimeconfig.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\bin\Debug\net5.0\network.runtimeconfig.dev.json
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\bin\Debug\net5.0\network.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\bin\Debug\net5.0\ref\network.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\bin\Debug\net5.0\network.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\obj\Debug\net5.0\network.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\obj\Debug\net5.0\ref\network.dll
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\obj\Debug\net5.0\network.pdb
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\network\obj\Debug\net5.0\network.genruntimeconfig.cache
