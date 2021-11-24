@@ -99,3 +99,6 @@ C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\A
 C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\obj\Debug\net6.0\AdventOfCode2020.csproj.AssemblyReference.cache
 C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\bin\Debug\net6.0\Day1\Day1Data.txt
 C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\bin\Debug\net6.0\Day2\Day2Data.txt
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\bin\Debug\net6.0\Day3\Day3Data.txt
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\bin\Debug\net6.0\Day4\Day4Data.txt
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\bin\Debug\net6.0\Day4\Day4Data3.txt
