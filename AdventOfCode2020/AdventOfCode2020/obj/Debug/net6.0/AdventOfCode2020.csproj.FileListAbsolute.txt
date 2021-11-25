@@ -102,3 +102,4 @@ C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\A
 C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\bin\Debug\net6.0\Day3\Day3Data.txt
 C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\bin\Debug\net6.0\Day4\Day4Data.txt
 C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\bin\Debug\net6.0\Day4\Day4Data3.txt
+C:\Users\yongj\OneDrive\Documents\Common\repos\c#\LearnCSharp\AdventOfCode2020\AdventOfCode2020\bin\Debug\net6.0\Day5\Day5Data.txt

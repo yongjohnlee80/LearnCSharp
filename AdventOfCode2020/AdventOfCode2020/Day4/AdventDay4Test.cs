@@ -10,20 +10,11 @@ namespace AdventOfCode2020
     {
         string[]? data = null;
 
-        public Day4Tests()
-        {
-            var filename = Path.Combine(System.Environment.CurrentDirectory, "Day4Data.txt");
-            this.data = File.ReadAllLines(filename);
-        }
-
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public void TestExample()
         {
+            var filename = Path.Combine(System.Environment.CurrentDirectory, "Day4Data.txt");
+            this.data = File.ReadAllLines(filename);
             var requiredFields = new string[] { "byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid" };
             var test = new AdventDay4(this.data);
             Assert.That(test.FindSolution(requiredFields), Is.EqualTo(2));
@@ -34,9 +25,8 @@ namespace AdventOfCode2020
         {
             var filename = Path.Combine(System.Environment.CurrentDirectory, "Day4Data3.txt");
             this.data = File.ReadAllLines(filename);
-
-            var requiredFields = new string[] { "byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid" };
             var test = new AdventDay4(this.data);
+            var requiredFields = new string[] { "byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid" };
             Assert.That(test.FindSolution(requiredFields, true), Is.EqualTo(4));
         }
 
@@ -45,7 +35,6 @@ namespace AdventOfCode2020
         {
             var filename = Path.Combine(System.Environment.CurrentDirectory, "Day4Data2.txt");
             this.data = File.ReadAllLines(filename);
-
             var requiredFields = new string[] { "byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid" };
             var test = new AdventDay4(this.data);
             Console.WriteLine(test.FindSolution(requiredFields));
@@ -56,7 +45,6 @@ namespace AdventOfCode2020
         {
             var filename = Path.Combine(System.Environment.CurrentDirectory, "Day4Data2.txt");
             this.data = File.ReadAllLines(filename);
-
             var requiredFields = new string[] { "byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid" };
             var test = new AdventDay4(this.data);
             Console.WriteLine(test.FindSolution(requiredFields, true));
