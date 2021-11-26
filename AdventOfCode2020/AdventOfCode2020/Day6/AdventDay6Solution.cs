@@ -19,11 +19,11 @@ namespace AdventOfCode2020
             this.data = data;
         }
         // methods.
-        public int FindSolution()
+        public int FindSolution(bool union = true)
         {
             var groups = new List<PassengerGroup>();
             groups.LoadAnswers(data);
-            return groups.CountAllYeses();
+            return groups.SurveyAnswers(union);
         }
     }
 
@@ -40,11 +40,42 @@ namespace AdventOfCode2020
     public class PassengerGroup
     {
         // fields
-        public HashSet<int> answeredYes = new HashSet<int>();
-        public int Count { get; set; } // number of people int the group.
-        public int YesAnswered
+        List<int> indAnswers = new List<int> ();
+        public void Append(string answers)
         {
-            get { return answeredYes.Count; }
+            int result = 0;
+            answers = answers.ToLower();
+            foreach(char i in answers)
+            {
+                int temp = 1 << (i - 'a');
+                result = result | temp;
+            }
+            indAnswers.Add(result);
+        }
+        public int HowMany(int answer)
+        {
+            string temp = Convert.ToString(answer, 2);
+            return temp.Count(x => x == '1');
+        }
+        public int GroupUnion(bool binaryReturn = false)
+        {
+            int result = 0;
+            foreach(int i in indAnswers)
+            {
+                result |= i;
+            }
+            if(binaryReturn) return result;
+            else return HowMany(result);
+        }
+        public int GroupIntersect(bool binaryReturn = false)
+        {
+            int result = -1;
+            foreach(int i in indAnswers)
+            {
+                result &= i;
+            }
+            if (binaryReturn) return result;
+            else return HowMany(result);
         }
     }
 
@@ -63,22 +94,23 @@ namespace AdventOfCode2020
                 if (string.IsNullOrEmpty(line)) input.Add(new PassengerGroup()); // new group.
                 else
                 {
-                    input[input.Count - 1].Count++;
-                    char[] yes = line.ToCharArray();
-                    foreach (char i in yes)
-                    {
-                        input[input.Count - 1].answeredYes.Add(i);
-                    }
+                    input[input.Count - 1].Append(line);
                 }
             }
         }
         // Count the number of yes answered questions from all groups.
-        public static int CountAllYeses(this List<PassengerGroup> input)
+        public static int SurveyAnswers(this List<PassengerGroup> input, bool unionMode = true)
         {
             int count = 0;
             foreach (PassengerGroup i in input)
             {
-                count += i.YesAnswered;
+                if(unionMode)
+                {
+                    count += i.GroupUnion();
+                } else
+                {
+                    count += i.GroupIntersect();
+                }
             }
             return count;
         }

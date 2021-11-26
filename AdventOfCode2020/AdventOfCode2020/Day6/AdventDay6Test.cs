@@ -20,12 +20,30 @@ namespace AdventOfCode2020
         }
 
         [Test]
+        public void TestExample2()
+        {
+            var filename = Path.Combine(System.Environment.CurrentDirectory, "Day6Sample.txt");
+            this.data = File.ReadAllLines(filename);
+            var test = new AdventDay6(this.data);
+            Assert.That(test.FindSolution(false), Is.EqualTo(6));
+        }
+
+        [Test]
         public void TestSolution()
         {
             var filename = Path.Combine(System.Environment.CurrentDirectory, "Day6Data.txt");
             this.data = File.ReadAllLines(filename);
             var test = new AdventDay6(this.data);
             Console.WriteLine(test.FindSolution());
+        }
+
+        [Test]
+        public void TestSolution2()
+        {
+            var filename = Path.Combine(System.Environment.CurrentDirectory, "Day6Data.txt");
+            this.data = File.ReadAllLines(filename);
+            var test = new AdventDay6(this.data);
+            Console.WriteLine(test.FindSolution(false));
         }
     }
 }
