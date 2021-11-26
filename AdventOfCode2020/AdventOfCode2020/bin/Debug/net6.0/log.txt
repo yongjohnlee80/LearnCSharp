@@ -1,0 +1,3237 @@
+
+vibrant lavender
+[shiny coral : 1]
+[dotted purple : 4]
+
+
+dotted blue
+[muted violet : 5]
+
+
+faded magenta
+[dull gold : 5]
+[drab blue : 5]
+[wavy maroon : 2]
+
+
+wavy black
+[posh white : 2]
+[plaid lavender : 1]
+[drab green : 4]
+
+
+wavy olive
+[mirrored tan : 5]
+[vibrant lime : 5]
+[dull lime : 3]
+[dim lime : 5]
+
+
+light magenta
+[bright maroon : 3]
+[faded yellow : 5]
+[dim indigo : 2]
+
+
+shiny indigo
+
+
+faded bronze
+[pale orange : 2]
+[vibrant tomato : 4]
+[clear tomato : 3]
+[vibrant beige : 1]
+
+
+plaid crimson
+[drab purple : 2]
+[drab lime : 5]
+[vibrant gold : 4]
+
+
+bright lavender
+[shiny teal : 5]
+
+
+posh chartreuse
+[faded violet : 4]
+[pale black : 3]
+[posh coral : 2]
+
+
+posh yellow
+[dim indigo : 5]
+
+
+vibrant yellow
+[bright orange : 1]
+[pale yellow : 1]
+[wavy crimson : 1]
+[bright crimson : 2]
+
+
+clear bronze
+[mirrored blue : 5]
+
+
+vibrant purple
+[clear purple : 5]
+
+
+pale turquoise
+[muted indigo : 4]
+
+
+wavy aqua
+[pale brown : 4]
+[vibrant silver : 3]
+[dotted silver : 3]
+[pale maroon : 3]
+
+
+dim green
+[light tomato : 4]
+[drab teal : 5]
+[vibrant blue : 2]
+
+
+bright crimson
+[muted beige : 2]
+[muted white : 4]
+[plaid lime : 3]
+
+
+wavy yellow
+[pale gold : 3]
+
+
+pale gray
+[dotted lime : 1]
+[drab magenta : 4]
+[shiny indigo : 4]
+
+
+dull orange
+[dull aqua : 2]
+[bright salmon : 5]
+[faded lime : 4]
+[dull red : 2]
+
+
+wavy lime
+[faded gray : 2]
+[pale aqua : 5]
+[mirrored aqua : 3]
+
+
+faded gray
+[dotted silver : 2]
+[posh brown : 1]
+
+
+light gold
+[plaid turquoise : 5]
+[dim indigo : 2]
+
+
+light lime
+[dark beige : 3]
+[clear fuchsia : 4]
+[clear beige : 1]
+[dotted crimson : 3]
+
+
+muted tomato
+[drab black : 2]
+[dark orange : 1]
+[light aqua : 3]
+
+
+vibrant bronze
+[wavy purple : 4]
+[posh coral : 4]
+[shiny salmon : 2]
+
+
+posh gray
+[wavy coral : 2]
+[posh salmon : 5]
+
+
+posh bronze
+[dull teal : 2]
+[muted yellow : 1]
+
+
+light cyan
+[light lavender : 3]
+
+
+shiny purple
+[drab gray : 5]
+
+
+dim tan
+[pale black : 1]
+
+
+shiny fuchsia
+[dark purple : 3]
+[striped brown : 1]
+[posh indigo : 3]
+[dotted crimson : 1]
+
+
+pale red
+[pale bronze : 2]
+
+
+bright coral
+[bright salmon : 5]
+[vibrant beige : 4]
+[bright brown : 3]
+
+
+faded orange
+[muted brown : 1]
+[dark gold : 2]
+[posh aqua : 1]
+[faded gold : 5]
+
+
+striped beige
+[striped lavender : 2]
+[mirrored maroon : 3]
+
+
+shiny bronze
+[dim lime : 5]
+[mirrored maroon : 1]
+[drab bronze : 4]
+[striped yellow : 2]
+
+
+muted crimson
+[mirrored coral : 3]
+[light silver : 4]
+[shiny gold : 2]
+
+
+faded lavender
+[shiny indigo : 1]
+[light aqua : 2]
+
+
+posh black
+[muted gold : 3]
+
+
+pale magenta
+[muted orange : 2]
+[muted crimson : 4]
+[striped turquoise : 4]
+
+
+striped coral
+[shiny cyan : 1]
+[clear red : 2]
+
+
+clear black
+[drab brown : 2]
+
+
+drab olive
+[faded gray : 5]
+[plaid silver : 3]
+[light maroon : 5]
+
+
+mirrored orange
+[faded beige : 1]
+[plaid turquoise : 5]
+
+
+pale green
+[dark gold : 5]
+[shiny coral : 2]
+[striped aqua : 5]
+
+
+dim gray
+[drab magenta : 1]
+
+
+pale orange
+[dotted olive : 5]
+[posh brown : 2]
+[light aqua : 2]
+
+
+wavy white
+[striped yellow : 2]
+[posh bronze : 3]
+[faded green : 3]
+
+
+drab bronze
+[dotted lime : 5]
+[dark orange : 1]
+[wavy maroon : 1]
+[dim brown : 4]
+
+
+mirrored coral
+[shiny cyan : 1]
+[dotted olive : 3]
+[faded silver : 1]
+[shiny indigo : 2]
+
+
+striped brown
+[mirrored aqua : 4]
+[plaid lime : 2]
+[dark gray : 4]
+[muted gold : 4]
+
+
+pale gold
+[mirrored salmon : 3]
+[dim fuchsia : 4]
+
+
+dark indigo
+[bright cyan : 2]
+[vibrant olive : 1]
+
+
+drab gray
+[wavy blue : 2]
+[vibrant violet : 5]
+[dim lime : 3]
+
+
+vibrant indigo
+[pale orange : 4]
+
+
+plaid chartreuse
+[striped tan : 4]
+[striped gold : 4]
+[muted gray : 1]
+[drab teal : 4]
+
+
+faded blue
+[striped black : 4]
+[dark white : 3]
+[bright yellow : 4]
+
+
+light chartreuse
+[wavy coral : 3]
+[striped aqua : 5]
+[striped red : 2]
+
+
+clear fuchsia
+[striped crimson : 4]
+[muted olive : 4]
+[posh tan : 1]
+[pale green : 2]
+
+
+bright gold
+[wavy brown : 5]
+[vibrant violet : 5]
+[light orange : 3]
+[dull plum : 1]
+
+
+light tomato
+[wavy brown : 3]
+[striped crimson : 1]
+[clear red : 3]
+[mirrored blue : 1]
+
+
+plaid cyan
+[wavy lavender : 3]
+
+
+shiny turquoise
+[drab green : 5]
+
+
+wavy gold
+[pale aqua : 2]
+[posh aqua : 1]
+[mirrored purple : 5]
+[bright salmon : 5]
+
+
+drab lime
+[dim maroon : 4]
+
+
+dotted indigo
+[light turquoise : 1]
+
+
+dull turquoise
+[dim brown : 2]
+
+
+wavy violet
+[shiny bronze : 3]
+[muted maroon : 4]
+[shiny green : 1]
+
+
+bright gray
+[posh coral : 1]
+
+
+mirrored white
+[dull aqua : 4]
+[faded plum : 5]
+[dotted salmon : 4]
+
+
+striped aqua
+[clear gold : 5]
+
+
+light fuchsia
+[dull teal : 1]
+[mirrored fuchsia : 2]
+[clear indigo : 2]
+
+
+muted turquoise
+[vibrant maroon : 5]
+[shiny turquoise : 4]
+[dotted indigo : 3]
+[light maroon : 5]
+
+
+dim black
+[clear violet : 4]
+[clear black : 5]
+[light aqua : 5]
+[posh coral : 1]
+
+
+dim coral
+[striped magenta : 2]
+[pale white : 4]
+[shiny plum : 4]
+[drab aqua : 5]
+
+
+mirrored tomato
+[drab magenta : 4]
+[clear purple : 4]
+
+
+dim fuchsia
+[striped beige : 5]
+[muted violet : 4]
+[plaid olive : 2]
+
+
+light bronze
+[mirrored silver : 2]
+[light tomato : 2]
+[wavy turquoise : 1]
+
+
+muted orange
+[posh salmon : 3]
+
+
+dark tan
+[faded magenta : 4]
+
+
+shiny silver
+[striped lime : 2]
+
+
+clear brown
+[wavy purple : 1]
+[mirrored lime : 3]
+
+
+pale olive
+[faded silver : 1]
+[drab salmon : 3]
+[faded gray : 4]
+
+
+dull white
+[faded violet : 2]
+[dim lime : 5]
+
+
+light violet
+[vibrant purple : 5]
+[muted fuchsia : 4]
+[striped cyan : 4]
+[dull maroon : 5]
+
+
+plaid brown
+[dark chartreuse : 4]
+[shiny red : 5]
+[vibrant gray : 5]
+
+
+clear aqua
+[faded bronze : 1]
+
+
+dark green
+[dim lavender : 2]
+[dull white : 4]
+
+
+dull silver
+[vibrant red : 1]
+[pale lime : 2]
+[posh cyan : 5]
+
+
+shiny gray
+[clear black : 5]
+[striped aqua : 3]
+[clear gold : 2]
+
+
+pale purple
+[posh chartreuse : 5]
+[mirrored beige : 3]
+[faded turquoise : 3]
+[vibrant magenta : 4]
+
+
+faded coral
+[dim cyan : 4]
+
+
+pale cyan
+[muted violet : 2]
+
+
+dim magenta
+[shiny turquoise : 2]
+[dotted olive : 5]
+[clear lime : 2]
+[faded bronze : 3]
+
+
+plaid orange
+[posh crimson : 1]
+
+
+pale black
+[pale lime : 3]
+[dotted silver : 5]
+[faded gray : 1]
+
+
+posh tomato
+[bright silver : 3]
+
+
+bright olive
+[mirrored maroon : 5]
+[dotted blue : 5]
+[pale lime : 1]
+[mirrored olive : 3]
+
+
+dotted maroon
+[drab gold : 5]
+[wavy purple : 1]
+[wavy indigo : 1]
+[faded cyan : 5]
+
+
+pale crimson
+[faded turquoise : 2]
+
+
+muted indigo
+[posh white : 2]
+[pale lime : 5]
+[wavy purple : 1]
+[vibrant orange : 1]
+
+
+shiny maroon
+[bright teal : 1]
+[dim violet : 5]
+
+
+vibrant black
+[dull magenta : 4]
+
+
+pale plum
+[dotted gold : 2]
+[muted maroon : 4]
+[muted tan : 1]
+[vibrant gold : 2]
+
+
+wavy bronze
+[muted tan : 3]
+[bright silver : 3]
+
+
+clear purple
+[dull bronze : 4]
+
+
+striped black
+[bright gray : 5]
+[dotted crimson : 2]
+[bright olive : 1]
+[mirrored fuchsia : 2]
+
+
+vibrant brown
+[dull bronze : 3]
+[dim magenta : 3]
+
+
+plaid magenta
+[dim brown : 5]
+
+
+drab crimson
+[clear black : 1]
+
+
+mirrored fuchsia
+[faded salmon : 3]
+
+
+vibrant crimson
+[plaid gold : 5]
+[dull purple : 5]
+[mirrored bronze : 3]
+[clear white : 5]
+
+
+bright chartreuse
+[light maroon : 4]
+[clear green : 5]
+
+
+dotted tan
+[dotted purple : 2]
+[dark brown : 1]
+
+
+pale teal
+[muted yellow : 4]
+[shiny teal : 5]
+
+
+dim indigo
+[light olive : 5]
+[posh plum : 3]
+
+
+wavy turquoise
+[dotted crimson : 5]
+[vibrant gold : 1]
+
+
+clear salmon
+[dotted indigo : 2]
+[clear beige : 2]
+[faded white : 2]
+[bright cyan : 3]
+
+
+mirrored violet
+[pale plum : 3]
+[plaid black : 1]
+[drab gold : 4]
+
+
+dotted black
+[light blue : 5]
+
+
+mirrored magenta
+[pale brown : 2]
+[shiny turquoise : 5]
+[dotted indigo : 1]
+[light maroon : 1]
+
+
+shiny beige
+[light orange : 3]
+[posh black : 2]
+
+
+bright maroon
+[posh plum : 5]
+[mirrored maroon : 5]
+
+
+striped fuchsia
+[faded indigo : 1]
+[posh coral : 1]
+[light aqua : 1]
+[drab blue : 5]
+
+
+clear gold
+[pale tan : 1]
+[drab brown : 4]
+[clear red : 4]
+
+
+light plum
+[striped bronze : 5]
+[light blue : 3]
+
+
+plaid beige
+[pale gold : 2]
+
+
+dim salmon
+[shiny plum : 2]
+
+
+vibrant red
+[dull bronze : 5]
+
+
+dim olive
+[dull lime : 5]
+[mirrored tan : 4]
+[drab aqua : 2]
+[drab black : 4]
+
+
+striped white
+[light chartreuse : 4]
+
+
+faded brown
+[shiny indigo : 5]
+[vibrant violet : 4]
+[clear chartreuse : 2]
+
+
+wavy orange
+[mirrored lime : 1]
+[light lime : 2]
+
+
+clear violet
+
+
+drab turquoise
+[dark magenta : 3]
+[dark plum : 5]
+
+
+plaid white
+[pale gray : 3]
+[vibrant lime : 3]
+[dotted tomato : 4]
+
+
+dull beige
+[posh salmon : 5]
+[vibrant indigo : 5]
+[posh red : 4]
+[light tomato : 1]
+
+
+striped cyan
+[dull gray : 3]
+
+
+vibrant cyan
+[striped crimson : 1]
+
+
+wavy cyan
+[dark turquoise : 5]
+[plaid lime : 1]
+[clear lime : 5]
+[pale red : 5]
+
+
+drab aqua
+[shiny cyan : 5]
+[pale bronze : 4]
+
+
+posh violet
+[dark olive : 2]
+[wavy aqua : 3]
+
+
+plaid plum
+[dark gray : 2]
+[dotted bronze : 3]
+[faded silver : 3]
+
+
+dim white
+[dim salmon : 2]
+
+
+plaid red
+[dull purple : 4]
+[dark fuchsia : 3]
+[vibrant purple : 1]
+
+
+muted coral
+[dotted silver : 4]
+[posh brown : 1]
+[posh chartreuse : 5]
+[striped bronze : 3]
+
+
+dark bronze
+[pale lime : 5]
+
+
+bright tomato
+[plaid lime : 1]
+
+
+wavy beige
+[wavy indigo : 5]
+
+
+dark beige
+[pale lime : 5]
+[wavy magenta : 1]
+
+
+striped turquoise
+[dotted olive : 1]
+
+
+striped olive
+[bright blue : 5]
+[striped salmon : 5]
+[drab coral : 3]
+
+
+plaid violet
+[dull red : 3]
+[clear gold : 3]
+[shiny gray : 5]
+
+
+posh magenta
+[vibrant chartreuse : 1]
+[dotted fuchsia : 2]
+[pale plum : 3]
+
+
+bright brown
+[dull maroon : 2]
+
+
+pale salmon
+[dull aqua : 5]
+[bright bronze : 4]
+
+
+wavy coral
+[dull blue : 2]
+[vibrant violet : 4]
+[clear purple : 1]
+[shiny lime : 3]
+
+
+muted magenta
+[clear violet : 3]
+[faded plum : 5]
+
+
+light purple
+[vibrant indigo : 1]
+[drab green : 3]
+
+
+mirrored green
+[drab cyan : 5]
+[bright plum : 2]
+
+
+dull teal
+[drab aqua : 1]
+[dull green : 4]
+[faded gray : 4]
+[dull bronze : 1]
+
+
+plaid bronze
+[clear fuchsia : 4]
+[posh gold : 5]
+[dark olive : 3]
+
+
+dotted turquoise
+[bright aqua : 1]
+[muted black : 5]
+
+
+drab black
+[vibrant lime : 2]
+
+
+drab red
+[posh crimson : 2]
+
+
+faded black
+[light black : 1]
+[light silver : 3]
+[clear crimson : 5]
+[plaid brown : 4]
+
+
+bright aqua
+[faded salmon : 2]
+[vibrant crimson : 4]
+[faded orange : 1]
+
+
+dim silver
+[plaid bronze : 4]
+
+
+dark plum
+[dark gray : 1]
+[muted yellow : 5]
+
+
+shiny teal
+[dull bronze : 4]
+[dim black : 3]
+[posh brown : 1]
+
+
+faded chartreuse
+[pale red : 3]
+[drab fuchsia : 5]
+[dull green : 4]
+[faded blue : 1]
+
+
+clear cyan
+[shiny olive : 2]
+[muted plum : 1]
+
+
+wavy green
+[dull blue : 1]
+
+
+plaid yellow
+[drab coral : 1]
+
+
+wavy chartreuse
+[dull lime : 2]
+[mirrored crimson : 2]
+[shiny red : 2]
+
+
+dim teal
+[shiny coral : 2]
+[drab magenta : 1]
+[dull fuchsia : 5]
+
+
+muted bronze
+[plaid silver : 3]
+[vibrant purple : 2]
+[plaid plum : 2]
+[vibrant brown : 1]
+
+
+plaid tan
+[drab magenta : 2]
+[clear fuchsia : 4]
+
+
+drab salmon
+[dim fuchsia : 1]
+[muted olive : 3]
+[pale lime : 4]
+[bright white : 5]
+
+
+wavy indigo
+[clear tomato : 5]
+[mirrored silver : 5]
+
+
+striped maroon
+[pale gray : 5]
+[drab olive : 4]
+
+
+vibrant violet
+[muted gold : 3]
+[posh plum : 4]
+[pale tan : 2]
+[clear violet : 2]
+
+
+vibrant fuchsia
+[dim cyan : 3]
+[muted crimson : 2]
+
+
+striped chartreuse
+[clear black : 4]
+
+
+mirrored beige
+[bright orange : 1]
+[posh salmon : 1]
+[muted beige : 4]
+[mirrored fuchsia : 1]
+
+
+shiny cyan
+[light aqua : 3]
+
+
+drab chartreuse
+[vibrant fuchsia : 1]
+[clear aqua : 2]
+
+
+light maroon
+[posh tan : 3]
+[faded lavender : 4]
+
+
+bright white
+[light maroon : 4]
+
+
+vibrant plum
+[dim blue : 3]
+[striped coral : 2]
+[bright lime : 2]
+[dull tan : 2]
+
+
+posh olive
+[clear tomato : 5]
+
+
+posh red
+[pale tan : 1]
+
+
+dark gold
+[dim black : 1]
+
+
+light beige
+[mirrored chartreuse : 1]
+[bright lavender : 5]
+
+
+dotted white
+[posh brown : 3]
+[faded blue : 3]
+[faded cyan : 5]
+[faded fuchsia : 2]
+
+
+clear tomato
+[muted beige : 1]
+
+
+posh white
+[vibrant lime : 3]
+
+
+shiny green
+[vibrant salmon : 5]
+[dim brown : 2]
+[dotted indigo : 2]
+
+
+plaid maroon
+[posh brown : 2]
+[vibrant violet : 3]
+[drab coral : 1]
+[plaid turquoise : 5]
+
+
+clear yellow
+[drab aqua : 4]
+
+
+faded tan
+[striped lavender : 4]
+
+
+wavy red
+[shiny blue : 3]
+
+
+shiny brown
+[posh gold : 3]
+[bright magenta : 1]
+[pale bronze : 1]
+[light brown : 3]
+
+
+shiny lime
+[vibrant olive : 1]
+[mirrored fuchsia : 4]
+
+
+bright silver
+[vibrant green : 1]
+[light turquoise : 3]
+[light silver : 1]
+[dark magenta : 5]
+
+
+pale brown
+[posh tan : 5]
+[light aqua : 2]
+[dotted teal : 3]
+
+
+dotted violet
+[vibrant green : 2]
+[posh olive : 4]
+[muted tomato : 2]
+[wavy bronze : 5]
+
+
+pale blue
+[striped chartreuse : 1]
+[light fuchsia : 5]
+
+
+vibrant tomato
+[posh red : 1]
+[muted beige : 3]
+[wavy purple : 3]
+
+
+dull black
+[bright beige : 2]
+
+
+bright turquoise
+[faded indigo : 5]
+[dull white : 3]
+[muted brown : 1]
+
+
+plaid lavender
+[faded silver : 5]
+[clear orange : 3]
+
+
+shiny violet
+[muted turquoise : 5]
+[striped coral : 1]
+[dull crimson : 1]
+
+
+striped red
+[light tomato : 2]
+
+
+dotted salmon
+[dotted silver : 4]
+
+
+mirrored gold
+[light yellow : 3]
+[drab cyan : 1]
+[drab gray : 2]
+[posh orange : 5]
+
+
+muted green
+[mirrored magenta : 5]
+[plaid lavender : 3]
+[pale fuchsia : 5]
+[pale maroon : 1]
+
+
+muted silver
+[muted tomato : 1]
+
+
+plaid green
+[striped beige : 2]
+[vibrant indigo : 3]
+
+
+muted gray
+[vibrant olive : 4]
+
+
+light gray
+[bright white : 5]
+[vibrant black : 2]
+
+
+dotted aqua
+[faded cyan : 3]
+[vibrant purple : 3]
+
+
+dull tan
+[clear purple : 5]
+[mirrored maroon : 3]
+[dull gold : 3]
+[bright turquoise : 3]
+
+
+posh aqua
+[plaid black : 3]
+[drab aqua : 1]
+[mirrored fuchsia : 2]
+[muted orange : 1]
+
+
+dull cyan
+[posh tan : 1]
+[posh indigo : 1]
+
+
+muted gold
+
+
+striped tan
+[light silver : 3]
+[dull beige : 5]
+[plaid purple : 5]
+[muted orange : 4]
+
+
+striped salmon
+[light olive : 1]
+
+
+dark maroon
+[striped plum : 4]
+[wavy cyan : 2]
+[dotted teal : 3]
+
+
+clear green
+[muted crimson : 3]
+
+
+bright fuchsia
+[faded cyan : 1]
+[muted orange : 4]
+[posh black : 1]
+[dull bronze : 5]
+
+
+shiny aqua
+[striped lavender : 4]
+[faded indigo : 5]
+[pale black : 2]
+[vibrant green : 4]
+
+
+posh coral
+[plaid olive : 2]
+[shiny coral : 2]
+[vibrant olive : 1]
+[clear red : 1]
+
+
+vibrant aqua
+[drab magenta : 2]
+[dotted olive : 3]
+[dim plum : 3]
+[dotted aqua : 2]
+
+
+faded turquoise
+[light olive : 2]
+[dotted purple : 2]
+[faded violet : 3]
+
+
+dark crimson
+[wavy turquoise : 2]
+[shiny red : 1]
+[muted white : 5]
+
+
+dull tomato
+[wavy magenta : 2]
+[pale brown : 4]
+[dark bronze : 2]
+[drab brown : 1]
+
+
+dark coral
+[dotted black : 5]
+[vibrant purple : 4]
+[dark bronze : 2]
+[vibrant gold : 1]
+
+
+faded beige
+[plaid brown : 1]
+[light silver : 3]
+[faded tan : 5]
+[mirrored maroon : 3]
+
+
+striped crimson
+[shiny cyan : 5]
+[plaid indigo : 3]
+
+
+pale tan
+
+
+plaid aqua
+[mirrored lime : 2]
+[posh salmon : 1]
+
+
+muted white
+[pale red : 2]
+[dotted plum : 4]
+[posh salmon : 1]
+
+
+light orange
+[shiny indigo : 1]
+[pale lime : 2]
+[pale gold : 5]
+[clear black : 3]
+
+
+dull purple
+[wavy turquoise : 4]
+[striped coral : 2]
+[vibrant violet : 1]
+
+
+dull lavender
+[dark bronze : 4]
+
+
+clear maroon
+[clear indigo : 2]
+
+
+striped tomato
+[muted bronze : 3]
+[faded tomato : 5]
+[plaid brown : 4]
+
+
+striped gold
+[shiny indigo : 4]
+
+
+light yellow
+[pale beige : 5]
+
+
+wavy plum
+[clear maroon : 4]
+[bright brown : 1]
+[dim purple : 1]
+
+
+vibrant coral
+[striped orange : 5]
+[muted orange : 4]
+[striped blue : 1]
+
+
+light brown
+[wavy maroon : 2]
+[bright beige : 1]
+
+
+dull fuchsia
+[pale black : 5]
+[dotted salmon : 1]
+[pale bronze : 5]
+[faded silver : 2]
+
+
+dim brown
+[posh brown : 1]
+[shiny cyan : 2]
+[shiny indigo : 5]
+[striped lavender : 1]
+
+
+dim lime
+[dim black : 5]
+
+
+muted salmon
+[bright cyan : 1]
+[muted gray : 1]
+[plaid silver : 1]
+[dotted olive : 3]
+
+
+light red
+[dark cyan : 5]
+[dim red : 3]
+[pale olive : 1]
+[mirrored crimson : 5]
+
+
+striped blue
+[mirrored tan : 1]
+[vibrant crimson : 5]
+[muted turquoise : 2]
+
+
+mirrored lime
+[mirrored magenta : 1]
+[clear purple : 1]
+
+
+pale coral
+[shiny lime : 1]
+[clear bronze : 4]
+
+
+posh plum
+[faded gray : 5]
+
+
+dull green
+[mirrored salmon : 5]
+[pale green : 4]
+[bright purple : 1]
+[dark turquoise : 5]
+
+
+pale tomato
+[shiny white : 5]
+
+
+dark black
+[faded gold : 1]
+[faded aqua : 1]
+[drab brown : 5]
+[muted tomato : 2]
+
+
+wavy silver
+[posh brown : 3]
+[wavy blue : 3]
+[bright white : 4]
+
+
+dotted olive
+[dotted plum : 1]
+[dark orange : 5]
+
+
+faded gold
+[vibrant gray : 5]
+[pale maroon : 1]
+[dotted coral : 2]
+[bright beige : 4]
+
+
+muted brown
+[dim black : 4]
+
+
+plaid coral
+[plaid teal : 5]
+
+
+bright red
+[posh gray : 2]
+[dotted bronze : 1]
+[wavy tomato : 4]
+[dotted coral : 2]
+
+
+shiny gold
+[posh coral : 4]
+[clear violet : 2]
+
+
+dark gray
+[vibrant maroon : 1]
+[dotted purple : 4]
+[mirrored fuchsia : 4]
+
+
+muted teal
+[muted violet : 5]
+[striped aqua : 3]
+
+
+mirrored gray
+[vibrant lime : 3]
+[dull bronze : 4]
+[clear indigo : 3]
+[drab aqua : 2]
+
+
+wavy crimson
+[pale gold : 4]
+[dotted crimson : 4]
+[drab black : 4]
+
+
+shiny magenta
+[plaid white : 5]
+[dull tan : 4]
+[clear white : 1]
+
+
+dull coral
+[light gold : 5]
+[dotted green : 4]
+
+
+shiny salmon
+[pale indigo : 3]
+[pale gray : 4]
+
+
+dotted coral
+[clear red : 5]
+[vibrant green : 1]
+[dotted crimson : 1]
+
+
+posh salmon
+[striped lavender : 3]
+
+
+pale white
+[vibrant red : 2]
+[dim turquoise : 2]
+[drab white : 1]
+[light plum : 4]
+
+
+clear crimson
+[dotted silver : 3]
+[drab red : 1]
+[shiny coral : 1]
+[mirrored teal : 1]
+
+
+clear orange
+[striped lavender : 1]
+[drab blue : 5]
+[dim fuchsia : 5]
+
+
+muted plum
+[bright olive : 1]
+
+
+dark aqua
+[mirrored salmon : 4]
+[dull fuchsia : 2]
+
+
+pale chartreuse
+[dark silver : 2]
+[drab maroon : 3]
+[dull cyan : 1]
+
+
+faded white
+[faded indigo : 4]
+[faded silver : 4]
+[muted teal : 1]
+
+
+striped yellow
+[wavy green : 1]
+[plaid tan : 3]
+[clear lime : 2]
+
+
+plaid fuchsia
+[clear beige : 4]
+[drab black : 2]
+[muted brown : 5]
+[striped red : 2]
+
+
+vibrant magenta
+[bright fuchsia : 5]
+[bright plum : 4]
+[dotted blue : 5]
+[striped fuchsia : 3]
+
+
+dotted fuchsia
+[muted blue : 1]
+[drab plum : 2]
+
+
+plaid indigo
+[clear black : 2]
+[shiny coral : 2]
+[dim cyan : 5]
+[dotted blue : 2]
+
+
+mirrored teal
+[dull gold : 1]
+
+
+drab lavender
+[plaid purple : 2]
+
+
+dull gold
+[drab brown : 2]
+[clear black : 5]
+[wavy blue : 5]
+[pale black : 1]
+
+
+mirrored silver
+[dim black : 2]
+[shiny gray : 2]
+[plaid magenta : 1]
+
+
+mirrored salmon
+[shiny indigo : 1]
+
+
+mirrored red
+[plaid gray : 1]
+
+
+mirrored bronze
+[plaid lime : 4]
+[clear fuchsia : 1]
+[clear red : 5]
+
+
+striped bronze
+[dim fuchsia : 3]
+[faded bronze : 2]
+[drab coral : 4]
+[pale indigo : 2]
+
+
+dim red
+[vibrant indigo : 5]
+[shiny gold : 4]
+[shiny aqua : 5]
+[bright teal : 3]
+
+
+striped plum
+[light aqua : 4]
+[dull beige : 1]
+
+
+faded red
+[bright lime : 1]
+[pale green : 3]
+
+
+clear blue
+[posh aqua : 1]
+[dark green : 2]
+[posh maroon : 5]
+
+
+mirrored lavender
+[shiny gray : 1]
+[dotted lime : 5]
+[faded tomato : 3]
+
+
+dark lime
+[pale black : 2]
+[mirrored bronze : 5]
+[posh olive : 4]
+[dull red : 3]
+
+
+muted beige
+[faded plum : 2]
+
+
+light lavender
+[posh red : 3]
+
+
+dotted magenta
+[drab salmon : 5]
+[muted orange : 3]
+[muted fuchsia : 4]
+
+
+dim blue
+[striped plum : 5]
+[dim brown : 1]
+[drab blue : 3]
+
+
+plaid teal
+[drab salmon : 3]
+[muted tan : 4]
+[drab blue : 2]
+
+
+drab yellow
+[faded white : 1]
+
+
+faded aqua
+[dull olive : 4]
+
+
+dull brown
+[muted orange : 5]
+[bright orange : 1]
+[dim teal : 3]
+[dotted salmon : 1]
+
+
+light teal
+[muted chartreuse : 3]
+[clear lime : 5]
+
+
+drab fuchsia
+[dim magenta : 4]
+[faded cyan : 3]
+[faded bronze : 3]
+
+
+pale lime
+[vibrant orange : 1]
+[dull bronze : 5]
+
+
+muted yellow
+[clear beige : 1]
+[posh chartreuse : 2]
+[vibrant lavender : 5]
+
+
+posh green
+[vibrant red : 2]
+[dark olive : 5]
+
+
+dim crimson
+[drab chartreuse : 2]
+[faded aqua : 5]
+
+
+wavy fuchsia
+[mirrored coral : 5]
+
+
+faded plum
+[dark red : 4]
+[posh red : 3]
+[faded indigo : 1]
+
+
+drab plum
+[pale silver : 4]
+[drab fuchsia : 5]
+[dark olive : 3]
+[wavy maroon : 5]
+
+
+dark yellow
+[dark white : 3]
+[dotted plum : 3]
+
+
+drab magenta
+[posh salmon : 1]
+[mirrored maroon : 2]
+
+
+faded yellow
+[drab brown : 4]
+
+
+mirrored chartreuse
+[faded salmon : 2]
+[striped lavender : 5]
+
+
+posh crimson
+[plaid violet : 3]
+[dotted coral : 5]
+[pale teal : 4]
+
+
+faded purple
+[clear orange : 1]
+[dotted lime : 4]
+[muted maroon : 4]
+
+
+clear olive
+[plaid teal : 1]
+
+
+muted fuchsia
+[plaid indigo : 4]
+[shiny gold : 2]
+
+
+dotted bronze
+[striped lavender : 4]
+[mirrored fuchsia : 3]
+[plaid teal : 2]
+
+
+muted chartreuse
+[bright white : 2]
+[faded fuchsia : 5]
+[dim lime : 3]
+[plaid gold : 1]
+
+
+muted purple
+[light plum : 4]
+[pale indigo : 5]
+[mirrored aqua : 5]
+
+
+light blue
+[posh blue : 4]
+
+
+dark tomato
+[posh gold : 2]
+
+
+plaid gray
+[light tomato : 4]
+[striped chartreuse : 4]
+[muted magenta : 1]
+[striped violet : 3]
+
+
+dull crimson
+[light turquoise : 2]
+[shiny cyan : 4]
+[posh tan : 4]
+[mirrored maroon : 3]
+
+
+bright yellow
+[muted magenta : 1]
+[muted red : 4]
+[drab magenta : 5]
+
+
+drab teal
+[faded salmon : 1]
+[dotted crimson : 1]
+[dark white : 5]
+
+
+mirrored maroon
+[muted violet : 2]
+[faded silver : 1]
+
+
+mirrored plum
+[bright chartreuse : 1]
+[mirrored purple : 4]
+[dim turquoise : 1]
+[shiny gold : 4]
+
+
+plaid black
+[dotted red : 2]
+[bright orange : 2]
+
+
+drab beige
+[plaid gray : 1]
+[shiny coral : 2]
+[dull white : 5]
+
+
+vibrant tan
+[dotted salmon : 5]
+
+
+dim yellow
+[shiny bronze : 1]
+[faded plum : 4]
+[light blue : 4]
+
+
+bright lime
+[dull plum : 2]
+[posh salmon : 1]
+[dark gray : 5]
+
+
+dull violet
+[plaid salmon : 2]
+[dark salmon : 5]
+
+
+posh tan
+[mirrored aqua : 1]
+
+
+dull indigo
+[striped yellow : 3]
+[dotted black : 1]
+[mirrored coral : 2]
+
+
+mirrored cyan
+[wavy purple : 1]
+[drab chartreuse : 3]
+
+
+muted blue
+[dim olive : 3]
+[dim tan : 5]
+
+
+faded green
+[posh indigo : 1]
+[faded magenta : 2]
+[pale gold : 5]
+[wavy purple : 1]
+
+
+clear red
+
+
+dark teal
+[dark turquoise : 1]
+[dotted lime : 5]
+[dim black : 1]
+[vibrant orange : 5]
+
+
+light black
+[wavy magenta : 1]
+[mirrored bronze : 5]
+[dotted purple : 3]
+[pale yellow : 1]
+
+
+wavy lavender
+[muted magenta : 4]
+[mirrored lime : 4]
+
+
+bright violet
+[striped violet : 1]
+
+
+dull maroon
+[shiny coral : 1]
+[dull blue : 2]
+
+
+clear turquoise
+[bright plum : 1]
+[wavy olive : 4]
+
+
+dotted lime
+[dim black : 1]
+
+
+striped magenta
+[wavy magenta : 1]
+[pale red : 3]
+[clear white : 1]
+
+
+dim cyan
+[dotted silver : 3]
+[posh black : 4]
+[shiny coral : 2]
+
+
+bright orange
+[muted white : 1]
+[posh brown : 2]
+[dull green : 5]
+
+
+bright salmon
+[bright purple : 3]
+[dim lime : 4]
+[vibrant lavender : 3]
+
+
+dim tomato
+[striped green : 5]
+[drab blue : 3]
+[dull salmon : 5]
+
+
+striped orange
+[faded lime : 3]
+
+
+bright tan
+[dull turquoise : 4]
+[striped gray : 5]
+
+
+plaid gold
+[dotted plum : 2]
+[shiny teal : 5]
+
+
+plaid tomato
+[vibrant beige : 4]
+[dark red : 3]
+[dark fuchsia : 5]
+
+
+clear tan
+[bright aqua : 4]
+[wavy tomato : 3]
+
+
+light crimson
+[plaid black : 3]
+
+
+dotted crimson
+[drab aqua : 5]
+[dim brown : 4]
+[dull fuchsia : 5]
+[muted violet : 1]
+
+
+wavy maroon
+[pale tan : 5]
+
+
+shiny chartreuse
+[dark aqua : 5]
+[shiny gray : 5]
+[striped orange : 4]
+
+
+posh indigo
+[striped violet : 2]
+[clear tomato : 1]
+[vibrant gray : 1]
+[striped chartreuse : 5]
+
+
+faded salmon
+[shiny indigo : 2]
+[pale orange : 5]
+
+
+dull blue
+[posh coral : 1]
+[dark gold : 3]
+[bright gray : 1]
+
+
+dark red
+[dotted silver : 2]
+
+
+clear teal
+[plaid black : 3]
+[light tan : 1]
+[dark silver : 2]
+[dotted beige : 2]
+
+
+dotted green
+[bright beige : 5]
+[posh coral : 4]
+[clear aqua : 2]
+[faded lavender : 5]
+
+
+wavy brown
+[faded gray : 1]
+[muted violet : 3]
+[light silver : 4]
+
+
+clear lime
+[light tomato : 3]
+[striped gold : 5]
+[bright gray : 3]
+
+
+dotted purple
+[faded gray : 2]
+[vibrant olive : 5]
+[dark gold : 4]
+
+
+dotted teal
+[vibrant indigo : 4]
+[mirrored maroon : 2]
+
+
+shiny red
+[clear tomato : 2]
+[muted crimson : 4]
+[plaid gray : 2]
+[bright gold : 1]
+
+
+pale indigo
+[posh chartreuse : 1]
+
+
+drab maroon
+[drab silver : 4]
+[dull gold : 4]
+[shiny aqua : 1]
+
+
+pale bronze
+[light aqua : 2]
+
+
+dark olive
+[drab magenta : 5]
+[muted beige : 4]
+
+
+shiny tomato
+[dull turquoise : 3]
+[dotted lavender : 1]
+[posh silver : 2]
+[dark blue : 2]
+
+
+dull magenta
+[faded lime : 2]
+[vibrant bronze : 1]
+[shiny teal : 3]
+
+
+plaid silver
+[dim lime : 2]
+[drab teal : 4]
+[shiny coral : 5]
+
+
+mirrored indigo
+[drab beige : 3]
+
+
+posh purple
+[clear fuchsia : 3]
+
+
+drab brown
+
+
+dim aqua
+[mirrored coral : 1]
+
+
+wavy magenta
+[clear gold : 1]
+
+
+light aqua
+[mirrored maroon : 5]
+[dotted plum : 2]
+[clear red : 3]
+
+
+dark chartreuse
+[posh salmon : 2]
+[dull bronze : 5]
+
+
+drab white
+[faded lime : 5]
+[shiny green : 1]
+[muted teal : 2]
+[striped beige : 1]
+
+
+mirrored yellow
+[dull white : 4]
+
+
+drab blue
+[muted indigo : 5]
+[dim black : 1]
+[dotted teal : 4]
+[pale gray : 1]
+
+
+faded lime
+[drab aqua : 1]
+[dull bronze : 5]
+[dull green : 4]
+
+
+vibrant blue
+[faded tomato : 1]
+[bright olive : 1]
+[dotted silver : 3]
+[striped lavender : 1]
+
+
+dotted yellow
+[light olive : 3]
+[vibrant salmon : 4]
+
+
+clear coral
+[faded lavender : 4]
+
+
+posh brown
+[mirrored maroon : 3]
+
+
+dim chartreuse
+[posh coral : 4]
+
+
+bright plum
+[dotted tan : 5]
+[light olive : 3]
+
+
+pale beige
+[posh yellow : 3]
+
+
+dim turquoise
+[faded chartreuse : 3]
+
+
+vibrant turquoise
+[plaid turquoise : 2]
+[faded violet : 2]
+
+
+wavy blue
+[dark turquoise : 2]
+[striped coral : 1]
+[vibrant lime : 3]
+[mirrored aqua : 1]
+
+
+striped lime
+[drab silver : 2]
+
+
+light olive
+[clear tomato : 3]
+
+
+dotted red
+[drab orange : 4]
+[vibrant olive : 1]
+[mirrored coral : 5]
+[muted fuchsia : 1]
+
+
+mirrored olive
+[light turquoise : 5]
+
+
+bright teal
+[mirrored fuchsia : 3]
+[light turquoise : 1]
+[striped chartreuse : 4]
+[mirrored aqua : 3]
+
+
+posh cyan
+[dull purple : 5]
+[dark orange : 3]
+[dull olive : 5]
+
+
+clear magenta
+[bright purple : 1]
+[light tan : 3]
+[dull turquoise : 3]
+
+
+bright beige
+[muted teal : 2]
+[dark teal : 4]
+[dotted purple : 3]
+[posh white : 2]
+
+
+vibrant white
+[dim white : 4]
+
+
+muted maroon
+[light orange : 2]
+[dim olive : 1]
+[striped yellow : 5]
+
+
+light indigo
+[vibrant green : 4]
+[muted chartreuse : 5]
+
+
+dotted gold
+[bright purple : 4]
+
+
+striped gray
+[faded aqua : 1]
+[wavy red : 4]
+[striped plum : 1]
+[clear lime : 3]
+
+
+mirrored blue
+[shiny gray : 3]
+[faded cyan : 4]
+[wavy magenta : 2]
+[shiny coral : 4]
+
+
+dark silver
+[dull yellow : 3]
+[mirrored magenta : 1]
+[posh tan : 3]
+[bright lavender : 1]
+
+
+striped purple
+[shiny green : 5]
+
+
+faded violet
+[dim brown : 2]
+
+
+vibrant gray
+[light silver : 2]
+[dark orange : 4]
+[dotted salmon : 3]
+[pale lime : 5]
+
+
+muted violet
+
+
+striped teal
+[striped yellow : 2]
+[plaid beige : 4]
+[pale plum : 4]
+
+
+bright magenta
+[faded blue : 5]
+[dotted aqua : 2]
+[posh gray : 2]
+[muted tan : 2]
+
+
+pale lavender
+[vibrant plum : 1]
+[vibrant lavender : 3]
+
+
+vibrant chartreuse
+[dim purple : 1]
+
+
+wavy salmon
+[clear teal : 2]
+
+
+vibrant teal
+[dark plum : 2]
+[striped gray : 5]
+
+
+light tan
+[bright yellow : 3]
+[striped chartreuse : 1]
+[posh plum : 3]
+[dark magenta : 4]
+
+
+drab orange
+[wavy purple : 1]
+
+
+plaid salmon
+[dark olive : 3]
+[muted indigo : 4]
+[vibrant turquoise : 5]
+[striped purple : 2]
+
+
+vibrant beige
+[pale black : 3]
+
+
+shiny black
+[plaid black : 5]
+[dim brown : 4]
+
+
+muted lime
+[mirrored maroon : 1]
+[shiny red : 2]
+[drab gold : 2]
+[vibrant chartreuse : 5]
+
+
+mirrored black
+[shiny salmon : 1]
+
+
+faded indigo
+[mirrored salmon : 4]
+
+
+vibrant gold
+[striped gold : 5]
+[bright silver : 5]
+[dotted purple : 2]
+
+
+shiny olive
+[clear tomato : 1]
+[vibrant tomato : 3]
+
+
+striped lavender
+
+
+mirrored tan
+[pale orange : 4]
+[plaid olive : 3]
+[muted crimson : 5]
+[posh salmon : 5]
+
+
+dotted chartreuse
+[mirrored bronze : 3]
+[clear purple : 2]
+
+
+vibrant maroon
+[faded yellow : 5]
+[wavy maroon : 4]
+[wavy purple : 1]
+
+
+shiny yellow
+[mirrored blue : 3]
+[faded tan : 3]
+[faded beige : 1]
+[muted coral : 4]
+
+
+muted black
+[plaid gold : 2]
+[shiny orange : 4]
+[clear green : 3]
+
+
+faded cyan
+[dim brown : 2]
+[posh red : 1]
+
+
+shiny crimson
+[clear maroon : 1]
+
+
+dark white
+[light olive : 5]
+[drab coral : 5]
+
+
+clear white
+[vibrant olive : 4]
+
+
+vibrant green
+[dotted plum : 3]
+[drab aqua : 2]
+[clear gold : 1]
+[vibrant indigo : 5]
+
+
+dim plum
+[striped chartreuse : 4]
+[posh salmon : 5]
+[mirrored salmon : 5]
+[dim teal : 2]
+
+
+dull gray
+[light maroon : 4]
+[plaid tan : 1]
+
+
+posh teal
+[shiny orange : 4]
+[shiny aqua : 4]
+[mirrored teal : 5]
+
+
+shiny plum
+[striped coral : 2]
+[drab black : 4]
+[muted brown : 2]
+
+
+clear silver
+[light lavender : 5]
+[plaid olive : 5]
+
+
+wavy tan
+[bright gray : 3]
+[dark olive : 2]
+[posh fuchsia : 3]
+[muted gray : 4]
+
+
+wavy purple
+[shiny gold : 2]
+[mirrored maroon : 4]
+
+
+clear chartreuse
+[shiny beige : 3]
+[mirrored teal : 1]
+[dotted coral : 1]
+
+
+dark orange
+[muted violet : 1]
+[shiny indigo : 5]
+
+
+muted olive
+[vibrant olive : 1]
+
+
+dim lavender
+[vibrant red : 3]
+[vibrant lavender : 3]
+[drab orange : 5]
+
+
+dull salmon
+[shiny blue : 5]
+
+
+dotted orange
+[faded violet : 1]
+[posh gold : 4]
+[faded fuchsia : 1]
+[muted orange : 4]
+
+
+mirrored purple
+[vibrant lime : 3]
+[dim teal : 5]
+
+
+plaid olive
+[light silver : 3]
+[vibrant violet : 1]
+[dotted silver : 2]
+[mirrored salmon : 4]
+
+
+dark violet
+[light magenta : 2]
+[wavy magenta : 3]
+[light aqua : 4]
+[striped lime : 5]
+
+
+pale fuchsia
+[light turquoise : 1]
+[plaid lime : 2]
+[dotted white : 3]
+[dark red : 1]
+
+
+wavy tomato
+[striped brown : 4]
+[dotted crimson : 2]
+[dull bronze : 2]
+
+
+dull olive
+[clear purple : 2]
+
+
+faded maroon
+[mirrored brown : 5]
+[dull gray : 3]
+[clear olive : 2]
+
+
+dark brown
+[faded silver : 2]
+[muted violet : 3]
+[shiny teal : 5]
+
+
+clear indigo
+[muted violet : 5]
+[striped beige : 2]
+[posh plum : 5]
+[clear violet : 2]
+
+
+dim maroon
+[dotted crimson : 5]
+[dotted cyan : 3]
+[dim beige : 4]
+
+
+dark fuchsia
+[clear green : 4]
+[plaid green : 3]
+
+
+faded fuchsia
+[dotted silver : 4]
+[clear orange : 2]
+[drab green : 4]
+
+
+posh beige
+[mirrored red : 2]
+[light silver : 4]
+[dull cyan : 5]
+[muted plum : 4]
+
+
+vibrant salmon
+[posh red : 4]
+[faded cyan : 3]
+[bright olive : 1]
+
+
+striped green
+[dim tan : 5]
+[dotted purple : 3]
+[dotted tan : 2]
+[posh gray : 4]
+
+
+drab tomato
+[plaid aqua : 1]
+
+
+dotted gray
+[pale salmon : 4]
+[shiny crimson : 2]
+[dark white : 1]
+
+
+dotted brown
+[dim green : 5]
+
+
+shiny coral
+[muted gold : 2]
+[vibrant olive : 4]
+[clear red : 3]
+
+
+dark magenta
+[bright purple : 3]
+[muted gray : 2]
+[faded gray : 3]
+[muted teal : 5]
+
+
+vibrant orange
+[clear gold : 1]
+
+
+plaid turquoise
+[dark gold : 2]
+
+
+mirrored brown
+[dark silver : 2]
+[clear violet : 3]
+[wavy tomato : 4]
+
+
+posh orange
+[pale orange : 5]
+[wavy black : 5]
+[dim gray : 2]
+[plaid teal : 4]
+
+
+dark blue
+[faded gray : 2]
+[bright purple : 2]
+[vibrant beige : 2]
+
+
+dotted plum
+[striped lavender : 3]
+[clear red : 2]
+
+
+vibrant lime
+[dim fuchsia : 3]
+
+
+dotted lavender
+[clear black : 1]
+[faded gray : 3]
+
+
+muted cyan
+[bright silver : 5]
+
+
+dull yellow
+[vibrant salmon : 4]
+
+
+dim purple
+[pale lime : 3]
+[striped yellow : 3]
+[light fuchsia : 5]
+[pale tan : 5]
+
+
+drab violet
+[bright fuchsia : 5]
+
+
+posh lime
+[light salmon : 5]
+[dim plum : 2]
+
+
+dark cyan
+[dim olive : 1]
+[plaid turquoise : 1]
+
+
+shiny white
+[dull tomato : 1]
+[dim blue : 3]
+[shiny teal : 1]
+
+
+light coral
+[dotted indigo : 3]
+[dim plum : 2]
+[clear gold : 5]
+[bright crimson : 4]
+
+
+posh lavender
+[dull olive : 4]
+
+
+dull bronze
+[dull plum : 4]
+
+
+striped silver
+[dotted tan : 1]
+[vibrant salmon : 1]
+[bright yellow : 1]
+
+
+pale violet
+[dim violet : 5]
+[light salmon : 4]
+[dark crimson : 5]
+
+
+pale silver
+[plaid turquoise : 5]
+[dull olive : 4]
+[drab aqua : 1]
+[dotted crimson : 2]
+
+
+posh fuchsia
+[dark orange : 3]
+[bright purple : 1]
+[dark turquoise : 4]
+[dull fuchsia : 1]
+
+
+mirrored crimson
+[clear lime : 1]
+
+
+drab purple
+[clear aqua : 4]
+[wavy fuchsia : 1]
+[light cyan : 5]
+
+
+dark salmon
+[faded gray : 5]
+
+
+wavy teal
+[faded cyan : 5]
+
+
+dull plum
+[dark gold : 2]
+
+
+clear plum
+[wavy brown : 1]
+[pale salmon : 3]
+[dim orange : 4]
+[striped magenta : 1]
+
+
+light salmon
+[faded cyan : 2]
+[dim cyan : 3]
+[muted fuchsia : 1]
+
+
+dull chartreuse
+[plaid coral : 5]
+[posh maroon : 1]
+[dark beige : 2]
+
+
+bright indigo
+[shiny cyan : 4]
+[dark yellow : 4]
+[dim blue : 1]
+[light beige : 2]
+
+
+muted lavender
+[faded salmon : 4]
+[dark beige : 3]
+[dull bronze : 3]
+
+
+drab tan
+[wavy purple : 2]
+[plaid lime : 4]
+[vibrant tan : 5]
+[dim blue : 1]
+
+
+shiny orange
+[pale gold : 3]
+[vibrant gray : 5]
+
+
+faded silver
+
+
+plaid lime
+[posh salmon : 1]
+[striped coral : 1]
+
+
+pale aqua
+[dull magenta : 5]
+[wavy green : 1]
+
+
+faded olive
+[mirrored crimson : 1]
+[bright teal : 4]
+[mirrored brown : 4]
+[plaid tan : 3]
+
+
+dotted cyan
+[mirrored blue : 4]
+[drab aqua : 5]
+[pale lavender : 1]
+
+
+faded teal
+[pale gold : 1]
+
+
+mirrored aqua
+[striped chartreuse : 4]
+[vibrant indigo : 2]
+[dark orange : 4]
+
+
+faded crimson
+[clear red : 4]
+[striped lime : 5]
+[striped beige : 2]
+[plaid beige : 2]
+
+
+drab silver
+[pale turquoise : 2]
+[clear fuchsia : 1]
+[faded yellow : 4]
+[faded lime : 3]
+
+
+posh blue
+[plaid gold : 2]
+[dark teal : 2]
+[dim black : 2]
+
+
+dark purple
+[wavy maroon : 3]
+[dull white : 3]
+[dark orange : 3]
+[mirrored maroon : 2]
+
+
+muted aqua
+[bright white : 4]
+
+
+posh gold
+[vibrant tomato : 1]
+[dim lavender : 3]
+[pale aqua : 4]
+[light brown : 3]
+
+
+dotted silver
+[mirrored salmon : 2]
+[striped lavender : 4]
+
+
+striped violet
+[mirrored olive : 3]
+
+
+dark turquoise
+[muted fuchsia : 1]
+[pale bronze : 2]
+[muted teal : 2]
+
+
+drab coral
+[bright olive : 5]
+[dark red : 1]
+[drab magenta : 3]
+
+
+clear lavender
+[drab orange : 4]
+[plaid white : 5]
+[pale teal : 4]
+
+
+bright cyan
+[mirrored maroon : 4]
+[light silver : 3]
+[shiny indigo : 2]
+[light turquoise : 4]
+
+
+plaid blue
+[dim lavender : 5]
+
+
+plaid purple
+[mirrored maroon : 2]
+[dark magenta : 3]
+[dotted indigo : 4]
+
+
+bright black
+[vibrant black : 3]
+
+
+wavy gray
+[muted beige : 3]
+[dotted coral : 3]
+[clear olive : 2]
+
+
+clear gray
+[dim indigo : 5]
+[dotted magenta : 3]
+[drab bronze : 5]
+[plaid green : 5]
+
+
+shiny tan
+[dim violet : 1]
+[striped coral : 2]
+[posh olive : 1]
+
+
+muted red
+[plaid lime : 1]
+
+
+bright bronze
+[muted yellow : 2]
+[shiny plum : 3]
+[vibrant red : 2]
+[shiny gray : 4]
+
+
+drab gold
+[dark tan : 2]
+[muted tomato : 1]
+[faded tan : 4]
+[mirrored lavender : 4]
+
+
+dull aqua
+[shiny violet : 2]
+[dim lavender : 3]
+[dim gray : 4]
+
+
+vibrant silver
+[plaid lime : 1]
+[posh tan : 1]
+[muted plum : 2]
+[shiny green : 4]
+
+
+faded tomato
+[dotted olive : 2]
+[shiny gray : 5]
+
+
+shiny lavender
+[drab magenta : 5]
+[pale green : 2]
+[posh green : 4]
+[striped aqua : 2]
+
+
+drab indigo
+[dark coral : 3]
+
+
+pale yellow
+[muted cyan : 5]
+[pale tan : 2]
+[muted silver : 1]
+
+
+dim orange
+[muted plum : 4]
+[wavy crimson : 4]
+[dim tomato : 3]
+
+
+dim beige
+[striped red : 5]
+[pale orange : 1]
+
+
+drab green
+[dark red : 3]
+[pale orange : 2]
+[dull plum : 5]
+[faded plum : 5]
+
+
+bright blue
+[plaid teal : 5]
+[muted teal : 4]
+[shiny salmon : 3]
+[dull red : 4]
+
+
+light silver
+[striped lavender : 5]
+[clear red : 2]
+[dotted plum : 2]
+
+
+light white
+[vibrant indigo : 3]
+
+
+drab cyan
+[mirrored tomato : 4]
+[faded aqua : 3]
+[posh gray : 1]
+[shiny maroon : 1]
+
+
+vibrant olive
+
+
+shiny blue
+[shiny plum : 3]
+[dotted red : 2]
+[pale bronze : 4]
+[drab gray : 2]
+
+
+posh turquoise
+[dark salmon : 3]
+[posh black : 2]
+
+
+posh maroon
+[pale silver : 2]
+[dull crimson : 4]
+
+
+bright green
+[dotted purple : 2]
+[shiny red : 5]
+
+
+pale maroon
+[bright orange : 3]
+[light lime : 1]
+[pale red : 5]
+
+
+bright purple
+[dark red : 3]
+[clear indigo : 4]
+[mirrored aqua : 5]
+
+
+light turquoise
+[pale tan : 5]
+
+
+dotted beige
+[posh blue : 5]
+[bright crimson : 4]
+[wavy red : 4]
+
+
+muted tan
+[clear black : 3]
+[striped crimson : 2]
+[posh tan : 4]
+[wavy brown : 5]
+
+
+dim bronze
+[posh coral : 5]
+[wavy lavender : 3]
+[dotted coral : 2]
+[bright beige : 1]
+
+
+dull red
+[shiny violet : 4]
+[muted beige : 4]
+
+
+light green
+[dim plum : 1]
+[posh bronze : 1]
+[plaid olive : 4]
+[plaid fuchsia : 3]
+
+
+dotted tomato
+[dull lime : 5]
+[muted tomato : 3]
+
+
+dim violet
+[light salmon : 4]
+[dotted purple : 1]
+
+
+mirrored turquoise
+[drab gray : 4]
+
+
+posh silver
+[bright purple : 4]
+
+
+dark lavender
+[plaid purple : 3]
+
+
+clear beige
+[vibrant lime : 2]
+[muted gold : 2]
+[dotted blue : 4]
+
+
+striped indigo
+[striped fuchsia : 1]
+
+
+dim gold
+[drab brown : 2]
+[mirrored brown : 3]
+
+
+dull lime
+[dark teal : 1]
+

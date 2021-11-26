@@ -30,7 +30,7 @@ namespace AdventOfCode2020
     /**************************************************************************
      * Implement classes on separate files once test is completed.
      * Author: Yong Sung Lee.
-     * Date: 2021-11-24.
+     * Date: 2021-11-25.
      **************************************************************************/
 
 
