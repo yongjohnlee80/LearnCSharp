@@ -43,9 +43,9 @@ namespace AdventOfCode2020
      **************************************************************************/
 
 
-    /**************************************************************************
-     * Type Bag
-     **************************************************************************/
+    /// <summary>
+    /// Type Bag
+    /// </summary>
     public class Bag
     {
         // fields
@@ -67,7 +67,10 @@ namespace AdventOfCode2020
             return Name;
         }
     }
-    // Extention Methods.
+    /// <summary>
+    /// Bag Extention Methods.
+    /// </summary>
+    /// <returns></returns>
     public static class BagExtention
     {
         public static Bag? FindName(this List<Bag> input, string name)
@@ -92,9 +95,9 @@ namespace AdventOfCode2020
         }
     }
 
-    /**************************************************************************
-    * Type BagRules
-    **************************************************************************/
+    /// <summary>
+    /// BagRules
+    /// </summary>
     public class BagRules
     {
         // fields
@@ -106,7 +109,6 @@ namespace AdventOfCode2020
 
         public void LoadRules(string[] lines)
         {
-            StringBuilder log = new StringBuilder(); // debug
             foreach (string line in lines)
             {
                 string[] parts = line.Split("contain");
@@ -114,7 +116,6 @@ namespace AdventOfCode2020
                 if(rule.FindName(nodeName)==null)
                 {
                     rule.Add(new Bag(nodeName));
-                    log.Append($"\n{nodeName}\n"); // debug
                     string[] nodes = parts[1].Split(",");
                     foreach (string node in nodes)
                     {
@@ -125,12 +126,9 @@ namespace AdventOfCode2020
                         string name = childName[1].Replace("bags", "").Replace("bag", "").Trim();
                         int number = Convert.ToInt32(quantity[0]);
                         rule[rule.Count - 1].AddChild(name, number);
-                        log.Append($"[{name} : {number}]\n"); // debug
                     }
-                    log.Append("\n"); // debug
                 }
             }
-            File.WriteAllText("log.txt", log.ToString()); // debug  
         }
 
         public List<Bag> FindRulesWith(string name)
@@ -163,6 +161,7 @@ namespace AdventOfCode2020
         public int GetNumberOfBags(string name)
         {
             var bag = rule.FindName(name);
+            if (bag == null) return 0;
             if (bag.children.Count == 0)
             {
                 return 1;
@@ -177,24 +176,5 @@ namespace AdventOfCode2020
                 return count;
             }
         }
-
-        //public int HowManyBags(string name)
-        //{
-        //    int count = 0;
-        //    var bags = new HashSet<string>();
-        //    BuildQueue(name);
-        //    foreach(var i in bags)
-        //    {
-        //        var item = rule.FindName(i);
-        //        if(item != null)
-        //        {
-        //            foreach (var j in item.children)
-        //            {
-        //                count += j.Value;
-        //            }
-        //        }
-        //    }
-        //    return count;
-        //}
     }
 }
