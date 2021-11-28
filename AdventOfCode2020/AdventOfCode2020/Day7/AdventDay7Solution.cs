@@ -25,7 +25,7 @@ namespace AdventOfCode2020
         {
             var rules = new BagRules();
             rules.LoadRules(data);
-            return (rules.FindRulesWith(name)).Count;
+            return (rules.FindAllBagsWith(name)).Count;
         }
 
         public int FindSolution2(string name)
@@ -45,133 +45,136 @@ namespace AdventOfCode2020
 
     /// <summary>
     /// Type Bag
+    /// This data type contains the information about the luggage, namely the attributes (eg. color)
+    /// Also contains the children (the contents) bag names and quantity.
     /// </summary>
     public class Bag
     {
         // fields
+
+        // the contents, namely the children bags and quantity.
         public Dictionary<string, int> children = new Dictionary<string, int>();
+
+        // constructor
         public Bag(string name)
         {
             Name = name;
         }
 
+        // Add a child bag that can be put in.
         public void AddChild(string name, int count)
         {
             children.Add(name, count);
         }
 
+        // Check whether this bag can contain a specific bag.
         public bool HasChild(string name) { return children.ContainsKey(name); }
+
+        // Name attribute.
         public string Name { get; set; }
-        public override string ToString()
-        {
-            return Name;
-        }
+
     }
+
     /// <summary>
-    /// Bag Extention Methods.
+    /// Type BagRules.
+    /// Create list of bags with the rules of what children bags each can contain.
     /// </summary>
-    /// <returns></returns>
-    public static class BagExtention
+    public class BagRules
     {
-        public static Bag? FindName(this List<Bag> input, string name)
+        // fields
+ //       public List<Bag> rule = new List<Bag>(); // list of all bags.
+
+        public Dictionary<string, Bag> bags = new Dictionary<string,Bag>();
+
+        public int Count
         {
-            foreach(Bag i in input)
-            {
-                if(i.Name == name) return i;
-            }
-            return null;
+            get { return bags.Count; } // return number of bags.
         }
-        public static List<Bag> FindParentsWith(this List<Bag> input, Bag child)
+
+        // Load the bags with their rules from text file.
+        public void LoadRules(string[] lines)
+        {
+            foreach (string line in lines)
+            {
+                // PARENT NODE
+                string[] parts = line.Split("contain"); // split the bag and its contents (children bags).
+                string nodeName = parts[0].Replace("bags", "").Replace("bag", "").Trim(); // extract the name of the bag.
+                if (!bags.ContainsKey(nodeName)) // safety net, check whether the bag already exists.
+                {
+                    bags.Add(nodeName, new Bag(nodeName)); // create parent node.
+
+                    // CHILDREN NODES
+                    string[] nodes = parts[1].Split(","); // separate children nodes.
+                    foreach (string node in nodes)
+                    {
+                        if (node.Contains("no other bags")) break; // if it has no child, move on.
+                        string temp = node.Replace(".", "").Trim(); // dot not needed.
+                        string[] childName = Regex.Split(temp, @"\d+"); // extracts attributes for node.
+                        string[] quantity = Regex.Split(temp, @"\D+"); // extract quantity for the node.
+                        string name = childName[1].Replace("bags", "").Replace("bag", "").Trim(); // words {bags, bag} are not needed.
+                        int number = Convert.ToInt32(quantity[0]);
+
+                        bags[nodeName].AddChild(name, number); // create child node.
+                    }
+                }
+            }
+        }
+
+        // Find all bags that will eventually contained the named bag.
+        public List<Bag> FindAllBagsWith(string name)
+        {
+            var result = new HashSet<Bag>(); // all bags that can contain the named bag.
+            var queue = new HashSet<Bag>(); // priority queue used for searching up the tree (BFS).
+            queue.Add(bags[name]);
+            while (queue.Count > 0) // searching until no more searching required.
+            {
+                // dequeue the first element.
+                Bag i = queue.First();
+                queue.Remove(i);
+
+                // Find all bags that directly contain the dequeued element.
+                List<Bag> found = FindBagsWith(i);
+                if (found.Count > 0)
+                {
+                    // Add the found nodes to queue and results
+                    foreach (var item in found)
+                    {
+                        result.Add(item);
+                        queue.Add(item);
+                    }
+                }
+            }
+            return result.ToList();
+        }
+
+        // Find Bags that can directly contain the child bag. LinearSearch.
+        public List<Bag> FindBagsWith(Bag child)
         {
             var result = new List<Bag>();
-            foreach(Bag i in input)
+            foreach (var i in bags.Values)
             {
-                if(i.HasChild(child.Name))
+                if (i.HasChild(child.Name))
                 {
                     result.Add(i);
                 }
             }
             return result;
         }
-    }
 
-    /// <summary>
-    /// BagRules
-    /// </summary>
-    public class BagRules
-    {
-        // fields
-        public List<Bag> rule = new List<Bag>();
-        public int Count
-        {
-            get { return rule.Count; }
-        }
-
-        public void LoadRules(string[] lines)
-        {
-            foreach (string line in lines)
-            {
-                string[] parts = line.Split("contain");
-                string nodeName = parts[0].Replace("bags", "").Replace("bag", "").Trim();
-                if(rule.FindName(nodeName)==null)
-                {
-                    rule.Add(new Bag(nodeName));
-                    string[] nodes = parts[1].Split(",");
-                    foreach (string node in nodes)
-                    {
-                        if (node.Contains("no other bags")) break;
-                        string temp = node.Replace(".", "").Trim();
-                        string[] childName = Regex.Split(temp, @"\d+");
-                        string[] quantity = Regex.Split(temp, @"\D+");
-                        string name = childName[1].Replace("bags", "").Replace("bag", "").Trim();
-                        int number = Convert.ToInt32(quantity[0]);
-                        rule[rule.Count - 1].AddChild(name, number);
-                    }
-                }
-            }
-        }
-
-        public List<Bag> FindRulesWith(string name)
-        {
-            var result = new HashSet<Bag>();
-            var queue = new HashSet<Bag>();
-            var start = rule.FindName(name);
-            if(start != null)
-            {
-                queue.Add(start);
-                while(queue.Count > 0)
-                {
-                    Bag i = queue.ElementAt(0);
-                    queue.Remove(i);
-                    List<Bag> found = rule.FindParentsWith(i);
-                    if(found.Count > 0)
-                    {
-                        foreach(var item in found)
-                        {
-                            result.Add(item);
-                            queue.Add(item);
-                        }
-                    }
-                    queue.Remove(i);
-                }
-            }
-            return result.ToList();
-        }
-
+        // Find how many bags are there in total with the named bag.
+        // Subtract one from the result for the number of bags inside the named bag.
         public int GetNumberOfBags(string name)
         {
-            var bag = rule.FindName(name);
-            if (bag == null) return 0;
-            if (bag.children.Count == 0)
+            if (bags[name].children.Count == 0)
             {
-                return 1;
+                return 1; // if leaf node.
             }
             else
             {
-                int count = 1;
-                foreach(var i in bag.children)
+                int count = 1; // count self.
+                foreach(var i in bags[name].children)
                 {
-                    count += (i.Value * GetNumberOfBags(i.Key));
+                    count += (i.Value * GetNumberOfBags(i.Key)); // Traverse through children bags (DFS)
                 }
                 return count;
             }
