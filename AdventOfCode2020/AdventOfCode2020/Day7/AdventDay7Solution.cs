@@ -124,23 +124,23 @@ namespace AdventOfCode2020
         public List<Bag> FindAllBagsWith(string name)
         {
             var result = new HashSet<Bag>(); // all bags that can contain the named bag.
-            var queue = new HashSet<Bag>(); // priority queue used for searching up the tree (BFS).
-            queue.Add(bags[name]);
+            var queue = new HashSet<string>(); // priority queue used for searching up the tree (BFS).
+            queue.Add(name);
             while (queue.Count > 0) // searching until no more searching required.
             {
                 // dequeue the first element.
-                Bag i = queue.First();
+                string i = queue.First();
                 queue.Remove(i);
 
                 // Find all bags that directly contain the dequeued element.
-                List<Bag> found = FindBagsWith(i);
+                List<Bag> found = FindBagsWith(bags[i]);
                 if (found.Count > 0)
                 {
                     // Add the found nodes to queue and results
                     foreach (var item in found)
                     {
                         result.Add(item);
-                        queue.Add(item);
+                        queue.Add(item.Name);
                     }
                 }
             }
