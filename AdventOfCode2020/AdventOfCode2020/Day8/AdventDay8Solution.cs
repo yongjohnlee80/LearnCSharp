@@ -29,6 +29,13 @@ namespace AdventOfCode2020
             gameBoy.LoadInstructions(data);
             return gameBoy.Run();
         }
+
+        public int FindSolution2()
+        {
+            var gameBoy = new Processor();
+            gameBoy.LoadInstructions(data);
+            return gameBoy.Debug();
+        }
     }
 
     /**************************************************************************
@@ -38,11 +45,7 @@ namespace AdventOfCode2020
      **************************************************************************/
 
     /// <summary>
-    /// Custom Assembly Keywords and Flags
-    /// This enum values should be exclusively used to interact with instruction
-    /// sets and arguments.
-    /// This allows future modification of the keyword and flag values without
-    /// breaking codes.
+    /// Custom Assembly Keywords.
     /// </summary>
     public enum AsmKey
     {
@@ -50,20 +53,15 @@ namespace AdventOfCode2020
         nop = 1,
         acc = 2,
         jmp = 4,
-
-        // flags
-        processed = 256,
-        overflow = 512
+        
+        mask = 5
     };
 
     public class Instruction
     {
-        protected long data; // instruction (BYTE:Flags + BYTE:Command + WORD:Argument)
-
-        public long Data
-        {
-            get; set;
-        }
+        AsmKey key = AsmKey.nop;
+        int arg = 0;
+        bool processed = false;
 
         // Constructor
         public Instruction(AsmKey inst, int arg)
@@ -71,17 +69,10 @@ namespace AdventOfCode2020
             Load(inst, arg);
         }
 
-        /// <summary>
-        /// Load method loads instruction and arguement.
-        /// Instruction field contains the both command and flag; however,
-        /// bit operations are performed to avoid conflits.
-        /// </summary>
-        /// <param name="inst">instruction</param>
-        /// <param name="arg">argument</param>
-        /// <returns></returns>
         public Instruction Load(AsmKey inst, int arg)
         {
-            this.data = ((long)inst) << 32 | ((long)arg);
+            key = inst;
+            this.arg = arg;
             return this;
         }
 
@@ -89,15 +80,30 @@ namespace AdventOfCode2020
         /// Retrive method returns tuple of (command, argument).
         /// </summary>
         /// <returns></returns>
-        public (AsmKey, int) Retrieve()
+        public (AsmKey, int) Retrieve(bool setProcessedFlag = true)
         {
-            this.data = this.data | (int)AsmKey.processed;
-            return ((AsmKey)(this.data >> 32), (int)(this.data & 0x0000FFFF));
+            if(setProcessedFlag) processed = true;
+            return (key, arg);
         }
 
         public bool FlagProcessed()
         {
-            return (this.data & (int)AsmKey.processed) != 0;
+            return processed;
+        }
+
+        public bool IsJmpNop()
+        {
+            return (key == AsmKey.nop || key == AsmKey.jmp);
+        }
+
+        public void Flip()
+        {
+            key = key ^ AsmKey.mask;
+        }
+
+        public void ResetFlag()
+        {
+            processed = false;
         }
     }
 
@@ -105,28 +111,27 @@ namespace AdventOfCode2020
     {
         public static bool LoadFromString(this List<Instruction> input, string line)
         {
-            //try
-            //{
+            try
+            {
                 line = line.Replace("+", "");
                 string[] command = line.Split(' ');
                 Enum.TryParse(command[0], out AsmKey asmKey);
                 int number = Convert.ToInt32(command[1]);
                 input.Add(new Instruction(asmKey, number));
                 return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
 
-
-                //line = line.Replace("+", "");
-                //string[] command = Regex.Split(line, @"\d+");
-                //Enum.TryParse(command[0], out AsmKey asmKey);
-                //string[] arg = Regex.Split(line, @"\D+");
-                //int number = Convert.ToInt32(arg[1]);
-                //input.Add(new Instruction(asmKey, number));
-                //return true;
-            //}
-            //catch
-            //{
-            //    return false;
-            //}
+        public static void ResetFlags(this List<Instruction> input)
+        {
+            foreach(Instruction i in input)
+            {
+                i.ResetFlag();
+            }
         }
     }
 
@@ -150,24 +155,28 @@ namespace AdventOfCode2020
             StringBuilder log = new StringBuilder();
             foreach(Instruction i in data)
             {
-                log.Append($"{i.Retrieve()}\n");
+                log.Append($"{i.Retrieve(false)}\n");
             }
             File.WriteAllText("log.txt", log.ToString());
             return true;
         }
 
-        public int Run(bool AllowRepetition = false)
+        public int Run(bool debug = false, bool AllowRepetition = false)
         {
             int insPtr = 0; // Instruction Pointer.
-            AsmKey key = new AsmKey();
+            AsmKey key;
             int arg = 0;
             while(insPtr < data.Count)
             {
-                if (!AllowRepetition && data[insPtr].FlagProcessed()) break;
+                if (!AllowRepetition && data[insPtr].FlagProcessed())
+                {
+                    if (debug) return (insPtr * -1);
+                    else return acc;
+                }
                 (key, arg) = data[insPtr].Retrieve();
                 switch(key)
                 {
-                    case AsmKey.nop: 
+                    case AsmKey.nop:
                                     insPtr++;
                                     break;
                     case AsmKey.acc: 
@@ -178,10 +187,31 @@ namespace AdventOfCode2020
                                     insPtr += arg;
                                     break;
                     default:
+                                    insPtr++;
                                     break;
                 }
             }
-            return insPtr;
+            return acc;
+        }
+
+        public int Debug()
+        {
+            int result = Run(true);
+            if (result > 0) return result;
+            int pos = 0;
+            do {
+                Modify(pos);
+                acc = 0;
+                data.ResetFlags();
+                result = Run(true);
+                Modify(pos++);
+            } while (result <= 0 && pos < data.Count);
+            return result;
+        }
+
+        public void Modify(int pos)
+        {
+            data[pos].Flip();
         }
     }
 }
