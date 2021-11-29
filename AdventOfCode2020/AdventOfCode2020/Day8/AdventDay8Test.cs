@@ -16,7 +16,7 @@ namespace AdventOfCode2020
             var filename = Path.Combine(System.Environment.CurrentDirectory, "Day8Sample.txt");
             this.data = File.ReadAllLines(filename);
             var test = new AdventDay8(this.data);
-            Assert.That(test.FindSolution(), Is.EqualTo(4));
+            Assert.That(test.FindSolution(), Is.EqualTo(5));
         }
 
         //[Test]
@@ -34,7 +34,7 @@ namespace AdventOfCode2020
         //    var filename = Path.Combine(System.Environment.CurrentDirectory, "Day8Data.txt");
         //    this.data = File.ReadAllLines(filename);
         //    var test = new AdventDay8(this.data);
-        //    Console.WriteLine(test.FindSolution("shiny gold"));
+        //    Console.WriteLine(test.FindSolution());
         //}
 
         //[Test]

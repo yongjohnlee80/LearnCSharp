@@ -25,9 +25,9 @@ namespace AdventOfCode2020
         // methods.
         public int FindSolution()
         {
-            var rules = new Processor();
-            rules.LoadInstructions(data);
-            return 0;
+            var gameBoy = new Processor();
+            gameBoy.LoadInstructions(data);
+            return gameBoy.Run();
         }
     }
 
@@ -52,7 +52,7 @@ namespace AdventOfCode2020
         jmp = 4,
 
         // flags
-        repeated = 256,
+        processed = 256,
         overflow = 512
     };
 
@@ -81,7 +81,7 @@ namespace AdventOfCode2020
         /// <returns></returns>
         public Instruction Load(AsmKey inst, int arg)
         {
-            this.data = (long)inst << 16 | (long)arg;
+            this.data = ((long)inst) << 32 | ((long)arg);
             return this;
         }
 
@@ -91,7 +91,13 @@ namespace AdventOfCode2020
         /// <returns></returns>
         public (AsmKey, int) Retrieve()
         {
-            return ((AsmKey)(this.data >> 16), (int)(this.data & 0xFFFF));
+            this.data = this.data | (int)AsmKey.processed;
+            return ((AsmKey)(this.data >> 32), (int)(this.data & 0x0000FFFF));
+        }
+
+        public bool FlagProcessed()
+        {
+            return (this.data & (int)AsmKey.processed) != 0;
         }
     }
 
@@ -99,20 +105,28 @@ namespace AdventOfCode2020
     {
         public static bool LoadFromString(this List<Instruction> input, string line)
         {
-            try
-            {
+            //try
+            //{
                 line = line.Replace("+", "");
-                string[] command = Regex.Split(line, @"\d+");
+                string[] command = line.Split(' ');
                 Enum.TryParse(command[0], out AsmKey asmKey);
-                string[] arg = Regex.Split(line, @"\D+");
-                int number = Convert.ToInt32(arg[0]);
+                int number = Convert.ToInt32(command[1]);
                 input.Add(new Instruction(asmKey, number));
                 return true;
-            }
-            catch
-            {
-                return false;
-            }
+
+
+                //line = line.Replace("+", "");
+                //string[] command = Regex.Split(line, @"\d+");
+                //Enum.TryParse(command[0], out AsmKey asmKey);
+                //string[] arg = Regex.Split(line, @"\D+");
+                //int number = Convert.ToInt32(arg[1]);
+                //input.Add(new Instruction(asmKey, number));
+                //return true;
+            //}
+            //catch
+            //{
+            //    return false;
+            //}
         }
     }
 
@@ -133,7 +147,41 @@ namespace AdventOfCode2020
                     return false;
                 }
             }
+            StringBuilder log = new StringBuilder();
+            foreach(Instruction i in data)
+            {
+                log.Append($"{i.Retrieve()}\n");
+            }
+            File.WriteAllText("log.txt", log.ToString());
             return true;
+        }
+
+        public int Run(bool AllowRepetition = false)
+        {
+            int insPtr = 0; // Instruction Pointer.
+            AsmKey key = new AsmKey();
+            int arg = 0;
+            while(insPtr < data.Count)
+            {
+                if (!AllowRepetition && data[insPtr].FlagProcessed()) break;
+                (key, arg) = data[insPtr].Retrieve();
+                switch(key)
+                {
+                    case AsmKey.nop: 
+                                    insPtr++;
+                                    break;
+                    case AsmKey.acc: 
+                                    acc += arg;
+                                    insPtr++;
+                                    break;
+                    case AsmKey.jmp: 
+                                    insPtr += arg;
+                                    break;
+                    default:
+                                    break;
+                }
+            }
+            return insPtr;
         }
     }
 }
